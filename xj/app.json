@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/personal/personal"
+  ],
+  "window": {
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "学记",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "学前",
+        "iconPath": "pages/img/xq.png",
+        "selectedIconPath": "pages/img/xq1.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "学后",
+        "iconPath": "pages/img/xh.png",
+        "selectedIconPath": "pages/img/xh1.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "学圈",
+        "iconPath": "pages/img/pyq.png",
+        "selectedIconPath": "pages/img/pyq1.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "学友",
+        "iconPath": "pages/img/hy.png",
+        "selectedIconPath": "pages/img/hy1.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "我的",
+        "iconPath": "pages/img/wd.png",
+        "selectedIconPath": "pages/img/wd1.png"
+      }
+    ]
+  }
+}

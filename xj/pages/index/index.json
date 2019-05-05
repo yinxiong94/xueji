@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nav-title": "../../components/nav-title/nav-title",
+    "refurbish-load": "../../components/refurbish-load/refurbish-load"
+  }
+  
+  }

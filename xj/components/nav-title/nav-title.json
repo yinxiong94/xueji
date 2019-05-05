@@ -1,0 +1,11 @@
+{
+  "componentName": "头部导航栏",
+  "component": true,
+  "usingComponents": {
+    "refurbish-load": "../refurbish-load/refurbish-load"
+  },
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTitleText": "设备",
+  "navigationBarTextStyle": "black"
+}

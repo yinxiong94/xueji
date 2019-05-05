@@ -1,0 +1,18 @@
+<!--index.wxml-->
+<nav-title paramAtoB='个人中心'> 
+  <view class='slider'> 
+  <swiper autoplay='4000' indicatorDots="true"> 
+  <swiper-item > 
+  <image src="/pages/img/upload_1343474cf79f22ca9bcfd1906795579e.jpg" lazy-load='true' ></image> 
+  </swiper-item> 
+  <swiper-item> 
+  <image src="/pages/img/upload_1d9dd745a73b941dce204ff48b716716.jpg" lazy-load='true'></image> 
+  </swiper-item> 
+  </swiper> 
+</view>
+  <view class='shop-star'>
+    <view class='star-after'>★★★★★</view>
+    <view class='star-before'>★★★★★</view>
+  </view>
+
+</nav-title>

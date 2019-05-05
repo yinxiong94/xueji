@@ -1,0 +1,119 @@
+<!--index.wxml-->
+
+<nav-title paramAtoB='学记'> 
+
+  <view class='slider'> 
+  <swiper autoplay='4000' indicatorDots="true"> 
+  <swiper-item > 
+  <image src="/pages/img/upload_1343474cf79f22ca9bcfd1906795579e.jpg" lazy-load='true' ></image> 
+  </swiper-item> 
+  <swiper-item> 
+  <image src="/pages/img/upload_1d9dd745a73b941dce204ff48b716716.jpg" lazy-load='true'></image> 
+  </swiper-item> 
+  </swiper> 
+</view>
+
+
+    <view class='zhk'>
+      <view>
+        <image src="/pages/img/sx.png" lazy-load='true'></image>
+      </view>
+      <view class='te'>找好课</view>
+      <view class='more'>
+        <image src="/pages/img/fh.png"></image>
+      </view>
+    </view>
+
+    <view class='clearfix'></view>
+
+    <view>
+       <text>为什么人类想不出</text>
+       <view class='xq'>
+          <view>
+            <image src="/pages/img/tx.png"></image>
+          </view>
+          <text>浣熊</text>
+          <text>学生</text>
+          <image src="/pages/img/tx.png" class='img'></image>
+       </view>
+       <view>军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧 </view>
+       <view class='bq'>
+          <text>2019.04.28</text>
+          <text>5.6km</text>
+          <text>学生</text>
+          <text>乐天派</text>
+       </view>
+    </view>
+    <view class='jg'></view>
+
+    <view>
+       <text>为什么人类想不出</text>
+       <view class='xq'>
+          <view>
+            <image src="/pages/img/tx.png"></image>
+          </view>
+          <text>浣熊</text>
+          <text>学生</text>
+          <image src="/pages/img/tx.png" class='img'></image>
+       </view>
+       <view>军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧 </view>
+       <view class='bq'>
+          <text>2019.04.28</text>
+          <text>5.6km</text>
+          <text>学生</text>
+          <text>乐天派</text>
+       </view>
+    </view>
+    <view class='jg'></view>
+
+    <view class='zhk' >
+      <view>
+        <image src="/pages/img/sx.png" lazy-load='true'></image>
+      </view>
+      <view class='te'>好课情报站</view>
+      <view class='more'>
+        <image src="/pages/img/fh.png"></image>
+      </view>
+    </view>
+
+    <view class='clearfix'></view>
+
+    <view>
+       <view class='xq'>
+          <view>
+            <image src="/pages/img/tx.png"></image>
+          </view>
+          <text>浣熊</text>
+          <text>学生</text>
+       </view>
+       <view>
+          <view class='left'>
+            <image src="/pages/img/jj.png"  bindtap='to'></image>
+          </view> 
+           <view class='right'>军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧 </view>
+       </view>
+       
+       <view class='bq'>
+          <text>2019.04.28</text>
+          <text>5.6km</text>
+          <text>学生</text>
+          <text>乐天派</text>
+       </view>
+    </view>
+    <view class='jg'></view>
+
+    <view>
+       <text>为什么人类想不出</text>
+       <view class='xq'>
+          <view>
+            <image src="/pages/img/tx.png"></image>
+          </view>
+          <text>浣熊</text>
+          <text>学生</text>
+          <image src="/pages/img/tx.png" class='img'></image>
+       </view>
+       <view class='red'>军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧大大阿萨德爱思大大爱思大神的大 </view>
+    </view>
+
+
+</nav-title>

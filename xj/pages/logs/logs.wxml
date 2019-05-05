@@ -1,0 +1,9 @@
+<!--logs.wxml-->
+<nav-title>
+<view class="container log-list">
+  <block wx:for="{{20}}" wx:key bindtap='bindToast'>
+    <text class="log-item">{{index + 1}}. log</text>
+  </block>
+</view>
+</nav-title>
+<get-user />

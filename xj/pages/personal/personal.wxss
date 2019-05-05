@@ -1,0 +1,148 @@
+/**index.wxss**/
+page{background: #fff}
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+map{
+  width: 100%
+}
+.usermotto {
+  margin-top: 200px;
+}
+.red{
+  text-align: center
+}
+.slider image{
+  width: 100%
+}
+.zhk image{
+  width: 40rpx;
+  height: 40rpx;
+}
+.zhk {
+  text-align: center;
+ margin-top: 20rpx
+}
+.zhk view{
+  float: left;
+}
+.zhk .more{
+  float: right
+}
+.te{
+  vertical-align: top;
+  margin-top: -4rpx
+}
+.clearfix{
+  clear: both;
+  content: "";
+  display: block
+}
+.xq view{
+  float: left
+}
+.xq image{
+  width: 50rpx;
+  height: 50rpx
+}
+.img{
+  float: right
+}
+.bq text{
+  margin-left: 20rpx
+}
+.jg{
+  width: 750rpx;
+  height: 8rpx;
+  background: #000
+}
+.left{
+  width: 30%;
+  margin: 0 5%;
+  float: left
+}
+.left image{
+  width: 100%;
+  height: 144rpx;
+}
+.right{
+  width: 50%;
+  float: right
+}
+.red{
+  width: 500rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 3;
+} 
+.bottom{
+  position: absolute;
+  bottom:0;
+}
+/* pages/shoplist/shoplist.wxss */
+.shop{
+  display: flex;
+  position: relative;
+  padding:20px;
+  border-bottom: 1rpx solid #ddd
+}
+
+.shop-img{
+  width:160rpx;
+  height:160rpx;
+  margin-right: 20rpx
+}
+.shop-info{
+  display:flex;
+  flex-direction: column;
+  width:580rpx;
+  line-height: 1.5;
+  color:#666;
+  font-size:12px
+}
+
+.shop-dname{
+  font-size: 16px;
+  width:380rpx;
+  color:#333
+  }
+
+  .ell{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis
+  }
+
+  .shop-star{
+    position: absolute;
+    left: 20rpx;
+    top:400rpx
+  }
+
+  .star-after{
+    color:#e2e2e2
+  }
+
+  .star-before{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 50%;
+    overflow: hidden;
+    color:#f19e38
+  }

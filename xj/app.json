@@ -1,8 +1,14 @@
 {
   "pages": [
+    "pages/index1/index1",
     "pages/index/index",
+    
+    "pages/index2/index2",
+   
+    
     "pages/logs/logs",
     "pages/personal/personal"
+    
   ],
   "window": {
     "enablePullDownRefresh": true,
@@ -15,7 +21,7 @@
   "tabBar": {
     "list": [
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/index1/index1",
         "text": "学前",
         "iconPath": "pages/img/xq.png",
         "selectedIconPath": "pages/img/xq1.png"

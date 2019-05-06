@@ -1,119 +1,196 @@
-<!--index.wxml-->
-
 <nav-title paramAtoB='学记'> 
+  <view class='header'>
+      <view class='org'>找好课</view>
+      <view>好课情报站</view>
+      <view>学习攻略</view>
+  </view>
 
+  <view class='header1'>
+    <view class='xhx1'></view>
+    <view class='xhx2'></view>
+    <view class='xhx3'></view>
+  </view>
+
+  <view class='ss'>
+    <input placeholder='搜索关键词'></input>
+    <image src="/pages/img/ss.png"></image>
+  </view>
   <view class='slider'> 
-  <swiper autoplay='4000' indicatorDots="true"> 
-  <swiper-item > 
-  <image src="/pages/img/upload_1343474cf79f22ca9bcfd1906795579e.jpg" lazy-load='true' ></image> 
-  </swiper-item> 
-  <swiper-item> 
-  <image src="/pages/img/upload_1d9dd745a73b941dce204ff48b716716.jpg" lazy-load='true'></image> 
-  </swiper-item> 
-  </swiper> 
-</view>
+    <swiper autoplay='4000' indicatorDots="true"> 
+    <swiper-item > 
+    <image src="/pages/img/banner.png" lazy-load='true' ></image> 
+    </swiper-item> 
+    <swiper-item> 
+    <image src="/pages/img/banner.png" lazy-load='true'></image> 
+    </swiper-item> 
+    </swiper> 
+  </view>
 
+  <view class='classify1'>
+    <view class='org1'>全部</view>
+    <view>同领域</view>
+    <view>最热门</view>
+    <view>附近</view>
+    <view>打赏多</view>
+  </view>
 
-    <view class='zhk'>
-      <view>
-        <image src="/pages/img/sx.png" lazy-load='true'></image>
-      </view>
-      <view class='te'>找好课</view>
-      <view class='more'>
-        <image src="/pages/img/fh.png"></image>
-      </view>
-    </view>
-
-    <view class='clearfix'></view>
-
-    <view>
-       <text>为什么人类想不出</text>
+  <view class='deails1'>
+       <text>为什么人类想不出四维空间</text>
        <view class='xq'>
-          <view>
+          <view class='xq1'>
             <image src="/pages/img/tx.png"></image>
           </view>
-          <text>浣熊</text>
-          <text>学生</text>
-          <image src="/pages/img/tx.png" class='img'></image>
+          <view class='xq2'>
+            <view class='a'>
+              <text>浣熊</text>
+              <image src="/pages/img/xz.png" class='img1' lazy-load='true'></image>    
+              <image src="/pages/img/xz1.png" class='img2' lazy-load='true'></image> 
+              <view class='d'>
+                <text class='d1'>学生</text>
+                <text class='d2'>我发布的</text>
+              </view> 
+            </view> 
+            <view class='zzz'>关注TA  </view>            
+          </view>          
        </view>
-       <view>军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧 </view>
+
+       <view class='clearfix'></view>
+
+       <view class='ddd'>
+          <text>#钢铁侠#</text>
+          军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧我弄了红包拿回来呢都死啦白色了号登录喀纳斯 
+       </view>
+       <view class='field'>
+          <view class='e'>领域标签</view>
+          <view>领域标签</view>
+          <view>领域标签</view>
+          <view>领域标签</view>
+       </view>
        <view class='bq'>
-          <text>2019.04.28</text>
+          <image src="/pages/img/dw.png" class='img3'></image>
           <text>5.6km</text>
-          <text>学生</text>
-          <text>乐天派</text>
+          <text>2019.4.28</text>
+          <text>500人推荐</text>
+          <text>500人打赏</text>
+          <view class='r'>
+            <image src="/pages/img/wsc.png" class='img4'></image>
+            <text>收藏</text>
+          </view>
        </view>
-    </view>
-    <view class='jg'></view>
 
-    <view>
-       <text>为什么人类想不出</text>
+       <view class='ttt'>
+          <text>打赏100知行币</text>
+          <text class='yyy'>我来推荐</text>
+          <image src="/pages/img/why.png" class='img8'></image>
+       </view>
+  </view>
+  <view class='hhh'></view>
+
+  <view class='deails1'>
+       <text>为什么人类想不出四维空间</text>
        <view class='xq'>
-          <view>
+          <view class='xq1'>
             <image src="/pages/img/tx.png"></image>
           </view>
-          <text>浣熊</text>
-          <text>学生</text>
-          <image src="/pages/img/tx.png" class='img'></image>
+          <view class='xq2'>
+            <view class='a'>
+              <text>浣熊</text>
+              <image src="/pages/img/xz.png" class='img1' lazy-load='true'></image>    
+              <image src="/pages/img/xz1.png" class='img2' lazy-load='true'></image> 
+              <view class='d'>
+                <text class='d1'>学生</text>
+                <text class='d2'>我收藏的</text>
+              </view> 
+            </view> 
+            <view class='zzz'>关注TA  </view>            
+          </view>          
        </view>
-       <view>军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧 </view>
+
+       <view class='clearfix'></view>
+
+       <view class='ddd'>
+          <text>#钢铁侠#</text>
+          军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧我弄了红包拿回来呢都死啦白色了号登录喀纳斯 
+       </view>
+       <view class='field'>
+          <view class='e'>领域标签</view>
+          <view>领域标签</view>
+          <view>领域标签</view>
+          <view>领域标签</view>
+       </view>
        <view class='bq'>
-          <text>2019.04.28</text>
+          <image src="/pages/img/dw.png" class='img3'></image>
           <text>5.6km</text>
-          <text>学生</text>
-          <text>乐天派</text>
+          <text>2019.4.28</text>
+          <text>500人推荐</text>
+          <text>500人打赏</text>
+          <view class='r'>
+            <image src="/pages/img/ysc.png" class='img4'></image>
+            <text>收藏</text>
+          </view>
        </view>
-    </view>
-    <view class='jg'></view>
 
-    <view class='zhk' >
-      <view>
-        <image src="/pages/img/sx.png" lazy-load='true'></image>
-      </view>
-      <view class='te'>好课情报站</view>
-      <view class='more'>
-        <image src="/pages/img/fh.png"></image>
-      </view>
-    </view>
+       <view class='ttt'>
+          <text>打赏100知行币</text>
+          <text class='yyy'>我来推荐</text>
+          <image src="/pages/img/why.png" class='img8'></image>
+       </view>
+  </view>
+  <view class='hhh'></view>
 
-    <view class='clearfix'></view>
-
-    <view>
+    <view class='deails1'>
+       <text>为什么人类想不出四维空间</text>
        <view class='xq'>
-          <view>
+          <view class='xq1'>
             <image src="/pages/img/tx.png"></image>
           </view>
-          <text>浣熊</text>
-          <text>学生</text>
+          <view class='xq2'>
+            <view class='a'>
+              <text>浣熊</text>
+              <image src="/pages/img/xz.png" class='img1' lazy-load='true'></image>    
+              <image src="/pages/img/xz1.png" class='img2' lazy-load='true'></image> 
+              <view class='d'>
+                <text class='d1'>学生</text>
+                <text class='d2'>我推荐的</text>
+              </view> 
+            </view> 
+            <view class='zzz'>关注TA  </view>            
+          </view>          
        </view>
-       <view>
-          <view class='left'>
-            <image src="/pages/img/jj.png"  bindtap='to'></image>
-          </view> 
-           <view class='right'>军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧 </view>
+
+       <view class='clearfix'></view>
+
+       <view class='ddd'>
+          <text>#钢铁侠#</text>
+          军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧我弄了红包拿回来呢都死啦白色了号登录喀纳斯 
        </view>
-       
+       <view class='field'>
+          <view class='e'>领域标签</view>
+          <view>领域标签</view>
+          <view>领域标签</view>
+          <view>领域标签</view>
+       </view>
        <view class='bq'>
-          <text>2019.04.28</text>
+          <image src="/pages/img/dw.png" class='img3'></image>
           <text>5.6km</text>
-          <text>学生</text>
-          <text>乐天派</text>
-       </view>
-    </view>
-    <view class='jg'></view>
-
-    <view>
-       <text>为什么人类想不出</text>
-       <view class='xq'>
-          <view>
-            <image src="/pages/img/tx.png"></image>
+          <text>2019.4.28</text>
+          <text>500人推荐</text>
+          <text>500人打赏</text>
+          <view class='r'>
+            <image src="/pages/img/ysc.png" class='img4'></image>
+            <text>收藏</text>
           </view>
-          <text>浣熊</text>
-          <text>学生</text>
-          <image src="/pages/img/tx.png" class='img'></image>
        </view>
-       <view class='red'>军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧大大阿萨德爱思大大爱思大神的大 </view>
-    </view>
 
+       <view class='ttt'>
+          <text>打赏100知行币</text>
+          <text class='xxx'>已找到</text>
+       </view>
+  </view>
+  <view class='hhh'></view>
+
+  <view class='ggg'>
+    <image src="/pages/img/wxx.png"></image>
+  </view>
 
 </nav-title>

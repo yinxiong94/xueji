@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nav-title1": "../../components/nav-title1/nav-title1",
+    "refurbish-load1": "../../components/refurbish-load1/refurbish-load1"
+  }
+}

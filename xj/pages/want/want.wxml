@@ -1,0 +1,18 @@
+<nav-title paramAtoB='我想学'>
+  <view class="db">
+    <view class="header">
+      <view class="header_left">
+        <text>我想学:</text>
+      </view>
+      <textarea placeholder='担心自己找不到靠谱的课程和老师？在这里发布想学内容，由体验过的学友们提供真实推荐，让你减少选择焦虑。'></textarea>
+    </view>
+    <view class="item1">
+      <view class="item1_title">条件标签</view>
+      <view class="list">
+        <view class="list_li">
+        附近学
+        </view>
+      </view>
+    </view>
+  </view>
+</nav-title>

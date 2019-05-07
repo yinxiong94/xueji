@@ -1,0 +1,54 @@
+<nav-title1 paramAtoB='签到页'>
+  <view class="backpos">
+   <image class='backImage' src="/pages/img/backw.png"></image> 
+   <image class='vi' src="/pages/img/vi.png"></image> 
+   <view class='oned'>
+    <text class='one-text'>已坚持</text>
+      <image class='oneday' src="/pages/img/oneday.png"></image>
+      <image class='oneday' src="/pages/img/oneday.png"></image>
+      <image class='oneday' src="/pages/img/oneday.png"></image>
+      <text class='one-text'>天签到</text>
+   </view>
+   <view class='qdts'>
+      <text>0</text>
+      <text>0</text>
+      <text>6</text>
+   </view>
+   <image class='chu' src="/pages/img/chu.png"></image>
+   <image class='btn' src="/pages/img/but.png"></image>
+   <image class='money' src="/pages/img/money.png"></image>
+   <text class="five">连续签到5天 即可获得10个知行币</text>
+   <image class='changfang' src="/pages/img/changfang.png"></image>
+   <text class="lianxu">已连续签到<text class='lianxuwu'>5</text>天</text>
+   <text class="zhixingbi">连续签到5天获得大量知行币</text>
+   <image class='three' src="/pages/img/three.png"></image>
+   <image class='dajiang' src="/pages/img/dajiang.png"></image>
+   <image class='radius' src="/pages/img/radius.png"></image>
+   <image class='tiaowen' src="/pages/img/tiaowen.png"></image>
+   <image src="/pages/img/lw.png" class='lw'></image>
+   <view class='tians'>
+    <text>1天</text>
+    <text>2天</text>
+    <text>3天</text>
+    <text>4天</text>
+    <text>5天</text>
+    <text>6天</text>
+    <text>7天</text>
+   </view>
+   <view class='tx'>
+      <image src="/pages/img/tx2.png"></image>
+      <image src="/pages/img/tx2.png"></image>
+      <image src="/pages/img/tx2.png"></image>
+      <image src="/pages/img/tx2.png"></image>
+      <image src="/pages/img/tx2.png"></image>
+      <text>...</text>
+   </view>
+   <view class="cjrs">
+      <text class='cjrs1'>528,789</text>
+      <text class='cjrs2'>人已参加</text>
+   </view>
+   <view class='qd'>马上签到</view>
+   <view class='qdgz'>签到规则 ></view>
+</view>
+
+</nav-title1>

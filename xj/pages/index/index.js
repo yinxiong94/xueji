@@ -4,16 +4,21 @@ Page({
    * 页面的初始数据
    */
   data: {
- 
+    isshow:false,
+    isshow1:false
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
-  to:function(){
-    wx.navigateTo({
-      url: '/pages/personal/personal',
-    })
+  why:function(){
+    this.setData({isshow:true})
+  },
+  qx:function(){
+    this.setData({isshow:false,isshow1:false})
+  },
+  fxt:function(){
+    this.setData({isshow1:true})
   },
   onLoad: function (options) {
     // console.log(this.modal-d)

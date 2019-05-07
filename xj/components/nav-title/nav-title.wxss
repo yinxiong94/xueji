@@ -20,3 +20,31 @@ view{box-sizing: border-box;}
 }
 .icon__back{padding: 0 10px;}
 .icon__back:before {content: "\e611";position: relative;z-index: 110;}
+.zxc{
+  width:174rpx;
+  height: 63rpx;
+  border:2rpx solid #000;
+  z-index: 100;
+  display: flex;
+  justify-content: space-around;
+  position: fixed;
+  top:50rpx;
+  left: 14rpx;
+  border-radius:32rpx;
+  line-height: 63rpx 
+}
+.fh{
+  width: 16rpx;
+  height: 28rpx;
+  margin: auto 0
+}
+.sx{
+  width: 1rpx;
+  height: 37rpx;
+  margin: auto 0
+}
+.home{
+  width: 28rpx;
+  height: 29rpx;
+  margin: auto 0
+}

@@ -1,0 +1,51 @@
+.db {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.db .header {
+  height: 200rpx;
+  width: 96%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.db .header .header_left {
+  flex: 1;
+  height: 200rpx;
+  text-align: center;
+  padding-top: 30rpx;
+}
+
+.db .header .header_left text {
+  font-size: 32rpx;
+  color: rgba(63, 69, 75, 1);
+}
+
+.db .header textarea {
+  padding: 30rpx 0 0 30rpx;
+  width: 555rpx;
+  height: 200rpx;
+  background: rgba(243, 243, 243, 1);
+  font-size: 28rpx;
+  font-weight: 400;
+  font-family: PingFangSC;
+}
+
+/* 板块1 */
+
+.db .item1 {
+  width: 96%;
+  margin: 0 auto;
+  margin-top: 70rpx;
+}
+
+.db .item1 .item1_title {
+  font-size: 32rpx;
+  font-weight: 400;
+  color: rgba(29, 32, 35, 1);
+}
+.db .item1 .list{
+  margin-top: 30rpx;
+  width: 100%;
+}

@@ -1,46 +1,8 @@
-.header{
-  width: 100%;
-  display: flex;
-  justify-content: space-around;
-  font-size: 34rpx;
-  color:rgba(63,69,75,1);
-  line-height: 42rpx;
-  padding-top: 20rpx;
-  position: fixed;
-  top:0;
-  z-index: 10;
-  background: #fff
-}
-.header1{
-  width: 100%;
-  display: flex;
-  justify-content: space-around;
-  font-size: 34rpx;
-  color:rgba(63,69,75,1);
-  line-height: 42rpx;
-  padding-top: 20rpx;
-  position: fixed;
-  top:60rpx;
-  z-index: 10;
-  background: #fff
-}
-.org{
-  color:rgba(255,152,0,1);
-  font-size: 42rpx
-}
-.xhx1,.xhx2,.xhx3{
-  width:30rpx;
-  height:6rpx;
-  background:rgba(255,152,0,1);
-  border-radius:3rpx; 
-  margin-bottom: 34rpx
-}
 .slider image{
   width: 100%
 }
 swiper{
   height: 320rpx;
-  margin-top: 120rpx
 }
 .classify1{
   display: flex;
@@ -78,45 +40,45 @@ swiper{
   width: 100%;
   height: 100%
 }
-.deails1{
+.deails112{
   width: 92%;
   margin: auto;
   padding-top: 30rpx
 }
-.deails1 text{
+.deails112 text{
   font-size:32rpx;
   font-family:PingFangSC-;
   font-weight:500;
   color:rgba(29,32,35,1);
   padding-bottom: 30rpx
 }
-.xq view{
+.xq12 view{
   float: left
 }
-.xq image{
+.xq12 image{
   width: 80rpx;
   height: 80rpx;
   vertical-align:middle
 }
-.img{
+.img12{
   float: right
 }
-.xq .img1{
+.xq12 .img112{
   display: inline-block;
   width: 54rpx;
   height: 54rpx
 }
-.xq .img2{
+.xq12 .img212{
   display: inline-block;
   width: 34rpx;
   height: 30rpx;
   margin-top: -6rpx
 }
-.xq{
+.xq12{
   margin-top: 30rpx;
   position: relative
 }
-.xq1{
+.xq112{
   margin-right: 20rpx
 }
 .clearfix{
@@ -124,14 +86,14 @@ swiper{
   content: "";
   display: block
 }
-.xq2{
+.xq212{
   width: 84%;
 }
-.d{
+.d12{
   position: absolute  ;
   top:50rpx;
 }
-.ddd{
+.ddd12{
   margin-top: 50rpx;
   font-size: 30rpx;
    overflow: hidden;
@@ -140,10 +102,10 @@ swiper{
 -webkit-box-orient: vertical;
 -webkit-line-clamp: 2;
 }
-.ddd text{
+.ddd12 text{
   color:#3BA1D9
 }
-.d .d1{
+.d12 .d112{
   display: inline-block;
   width:66rpx;
   height:32rpx;
@@ -153,18 +115,18 @@ swiper{
   text-align: center;
   color:#fff;
 }
-.left{
+.left12{
   width:232rpx;
   height:200rpx;
   border-radius: 10rpx;
   float: left
 }
-.left image{
+.left12 image{
   width:232rpx;
   height:200rpx;
   border-radius: 10rpx
 }
-.right{
+.right12{
   font-size:32rpx;
   font-family:PingFangSC-;
   font-weight:500;
@@ -172,46 +134,46 @@ swiper{
   margin-left: 26rpx;
   float: left
 }
-.ggg{
+.ggg12{
   margin-top: 38rpx
 }
-.img9{
+.img912{
   width: 74rpx;
   height: 32rpx;
   display: inline-block;
   vertical-align: middle
 }
-.mm{
+.mm12{
   display: inline-block;
   font-size: 26rpx;
   vertical-align: middle;
   margin-right: 20rpx
 }
-.bbb{
+.bbb12{
   display: flex;
   margin-top: 80rpx;
   line-height: 40rpx
 }
-.bbb view{
+.bbb12 view{
   font-size: 24rpx;
   color:#FF3A51;
 }
-.bbb .hhh{
+.bbb12 .hhh12{
   font-size:34rpx;
   font-family:PingFangSC;
   font-weight:400;
   color:rgba(255,58,81,1);
   margin-right: 40rpx
 }
-.bbb .iii{
+.bbb12 .iii12{
   margin-right: 20rpx
 }
-.field{
+.field12{
   display: flex;
   margin-top: 38rpx;
   font-size: 22rpx;
 }
-.field view{
+.field12 view{
   width: 120rpx;
   height: 40rpx;
   text-align: center;
@@ -220,31 +182,19 @@ swiper{
   border-radius:10rpx;
   margin-right: 20rpx
 }
-.field .e{
+.field12 .e12{
   background: #fff;
   border:1px solid rgba(255,152,0,1);
   border-radius:20rpx 
 }
-.bq text{
+.bq12 text{
   font-size: 24rpx;
   display: inline-block;
   margin-right: 20rpx;
   margin-top: 20rpx
 }
-.nnn{
+.nnn12{
   background: #EEEEEE;
   width: 750rpx;
   height: 12rpx
-}
-.ppp{
-  width:230rpx;
-height:90rpx;
-margin: auto;
-position: fixed;
-bottom:50rpx;
-left:260rpx
-}
-.ppp image{
-  width:100%;
-  height: 100%
 }

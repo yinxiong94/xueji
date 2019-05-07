@@ -1,0 +1,66 @@
+<nav-title paramAtoB='知行币详情'>
+  <view class="db">
+    <view class="header">
+      <view class="header_tx">
+        <image lazy-load='true' src="/pages/img/tx104.png"></image>
+        <view class="header_name">
+          <text>id:123456789</text>
+          <view class="name">
+            <view class="name_left">小浣熊</view>
+            <view class="name_right">家长</view>
+          </view>
+        </view>
+      </view>
+      <view class="header_zxb">
+        <image lazy-load='true' src="/pages/img/zxbb.png"></image>
+        <view class="price">
+          <view class="balance">余额:</view>
+          <text>1221</text>
+        </view>
+      </view>
+      <view class="grade">
+        <image lazy-load='true' src="/pages/img/xz.png"></image>
+        <view class="center">
+          <view class="tiao">
+            <view></view>
+          </view>
+          <view class="disparity">还差556知行币</view>
+        </view>
+        <image lazy-load='true' src="/pages/img/xz.png"></image>
+      </view>
+      <image class="header_img" lazy-load='true' src="/pages/img/bjt.png"></image>
+    </view>
+    <view class="income">
+      <text>收入/支出</text>
+      <image lazy-load='true' src="/pages/img/rl.png"></image>
+    </view>
+    <view class="item">
+      <view class="item_list">
+        <image lazy-load='true' src="/pages/img/cartoon.png"></image>
+        <view class="item_list_right">
+          <view class="item_list_top">
+            <text>打赏文章</text>
+            <text>-16.00</text>
+          </view>
+          <view class="item_list_bottom">
+            <text>2019-04-28</text>
+            <text>6666</text>
+          </view>
+        </view>
+      </view>
+      <view class="item_list">
+        <image lazy-load='true' src="/pages/img/cartoon.png"></image>
+        <view class="item_list_right">
+          <view class="item_list_top">
+            <text>打赏文章</text>
+            <text class="blue">+16.00</text>
+          </view>
+          <view class="item_list_bottom">
+            <text>2019-04-28</text>
+            <text>6666</text>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</nav-title>

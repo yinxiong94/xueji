@@ -1,0 +1,107 @@
+<view class="db">
+  <view class="header">
+    完善个人资料，可让学友更好的认识你
+  </view>
+  <view class="list_item">
+    <view class="item">
+      <image lazy-load='true' src="/pages/img/tx50.png"></image>
+      <view class="item_right">
+        <view class="item_right_text">修改头像</view>
+        <view class="iconfont .icon-jiantou jiantou"></view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">昵称</text>
+      <view class="item_right">
+        <view class="item_right_text">小浣熊</view>
+        <view class="iconfont .icon-jiantou jiantou"></view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">性别</text>
+      <view class="item_right">
+        <view class="item_right_text">男性</view>
+        <view class="iconfont .icon-jiantou jiantou"></view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">真实姓名</text>
+      <view class="item_right">
+        <view class="item_right_text">填写您的真实姓名</view>
+        <view class="iconfont .icon-jiantou jiantou"></view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">常住地</text>
+      <view class="item_right">
+        <view class="item_right_text">常住地</view>
+        <view class="iconfont .icon-jiantou jiantou"></view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">生日</text>
+      <view class="item_right">
+        <view class="item_right_text">2019-4-29</view>
+        <view class="iconfont .icon-jiantou jiantou"></view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">学习重点  </text>
+      <view class="item_right">
+        <view class="item_right_text">学习重点</view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">兴趣爱好</text>
+      <view class="item_right">
+        <view class="item_right_text">唱歌、跳舞</view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">所在行业</text>
+      <view class="item_right">
+        <view class="item_right_text">填写您的行业</view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">从事职业</text>
+      <view class="item_right">
+        <view class="item_right_text">填写您的职业</view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">公司全称</text>
+      <view class="item_right">
+        <view class="item_right_text">某某某公司</view>
+      </view>
+    </view>
+  </view>
+  <view class="list_item1">
+    <view class="item">
+      <text class="item_text">个性签名</text>
+      <view class="item_right">
+        <view class="item_right_text">个性签名会为您带来更多志同道合的学友</view>
+      </view>
+    </view>
+  </view>
+</view>

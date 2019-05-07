@@ -1,18 +1,200 @@
-<!--index.wxml-->
-<nav-title paramAtoB='个人中心'> 
-  <view class='slider'> 
-  <swiper autoplay='4000' indicatorDots="true"> 
-  <swiper-item > 
-  <image src="/pages/img/upload_1343474cf79f22ca9bcfd1906795579e.jpg" lazy-load='true' ></image> 
-  </swiper-item> 
-  <swiper-item> 
-  <image src="/pages/img/upload_1d9dd745a73b941dce204ff48b716716.jpg" lazy-load='true'></image> 
-  </swiper-item> 
-  </swiper> 
-</view>
-  <view class='shop-star'>
-    <view class='star-after'>★★★★★</view>
-    <view class='star-before'>★★★★★</view>
+<view class="db">
+  <view class="header">
+    <view class="header_right">
+      <text>个人主页</text>
+      <view class="iconfont .icon-jiantou jiantou"></view>
+    </view>
   </view>
-
-</nav-title>
+  <view class="data">
+    <view class="data_img">
+      <image class="data_img_item1" lazy-load='true' src='/pages/img/rz.png'></image>
+      <image class="data_img_item2" lazy-load='true' src='/pages/img/tx.png'></image>
+      <image class="data_img_item3" lazy-load='true' src='/pages/img/qdyl.png'></image>
+    </view>
+    <view class="data_name">
+      <view class="name">
+        <text>小浣熊</text>
+        <view class="identity">
+          家长
+        </view>
+      </view>
+      <view class="id">ID:123456789</view>
+    </view>
+    <view class="data_zxb">
+      <image lazy-load='true' src="/pages/img/zxb.png"></image>
+      <text>知行币566</text>
+    </view>
+    <view class="perfect">
+      <view class="perfect_data">编辑个人资料</view>
+      <view class="perfect_Percentage">已完善60%</view>
+    </view>
+    <view class="Grade">
+      <image lazy-load='true' src='/pages/img/grade.png'></image>
+      <view class="Grade_text">
+        <text>还差556知行币</text>
+        <view class="Grade_color">
+          <view class="color"></view>
+        </view>
+      </view>
+      <image lazy-load='true' src='/pages/img/grade.png'></image>
+    </view>
+    <view class="data_footer">
+      <view class="data_footer_list">
+        <text>5</text>
+        <view class="data_footer_list_text">学友</view>
+      </view>
+      <view class="data_footer_list">
+        <text>123</text>
+        <view class="data_footer_list_text">粉丝</view>
+      </view>
+      <view class="data_footer_list">
+        <text>154</text>
+        <view class="data_footer_list_text">收藏</view>
+      </view>
+      <view class="data_footer_list">
+        <text>2</text>
+        <view class="data_footer_list_text">草稿</view>
+      </view>
+      <view class="data_footer_list">
+        <text>5</text>
+        <view class="data_footer_list_text1">学友</view>
+      </view>
+    </view>
+  </view>
+  <view class="Skill">
+    <view class="Skill_left">
+      <image lazy-load='true' src="/pages/img/xx.png"></image>
+    </view>
+    <view class="Skill_op">
+      <view class="Skill_op_top">
+        <view class="Skill_op_jn">
+          <image lazy-load='true' src="/pages/img/jn.png"></image>
+        </view>
+        <view class="Skill_op_top_img">
+          <image lazy-load='true' src="/pages/img/mine.png"></image>
+        </view>
+      </view>
+      <text class="Skill_op_details">每种技能发布3个作品，相应的技能标签即可入库</text>
+    </view>
+    <view class="Skill_right">
+      <view class="Skill_right_reg">
+        <view class="Skill_right_img">
+          <image lazy-load='true' src="/pages/img/4x.png"></image>
+        </view>
+        <view class="iconfont icon-jiantou Skill_right_jiantou"></view>
+      </view>
+    </view>
+  </view>
+  <view class="Skill">
+    <view class="Skill_left">
+      <image lazy-load='true' src="/pages/img/xx.png"></image>
+    </view>
+    <view class="Skill_op">
+      <view class="Skill_op_top">
+        <view class="Skill_op_call">
+          <text class="jn">为“支持深度学习”打CALL</text>
+        </view>
+      </view>
+      <text class="Skill_op_details">(分享活动立得50知行币)</text>
+    </view>
+    <view class="Skill_right">
+      <view class="Skill_right_reg">
+        <view class="iconfont icon-jiantou Skill_right_jiantou"></view>
+      </view>
+    </view>
+  </view>
+  <view>
+    <view class="Earn">
+      <view class="Earn_left">
+        <view class="Earn_left_img">
+          <image lazy-load='true' src="/pages/img/fx.png"></image>
+        </view>
+        <view class="Earn_left_title">
+          <view class="title">分享小程序给好友</view>
+          <view class="zxb">（立得50知行币)</view>
+        </view>
+      </view>
+      <view class="Earn_right">
+        <view class="Earn_left_img">
+          <image lazy-load='true' src="/pages/img/fx.png"></image>
+        </view>
+        <view class="Earn_left_title">
+          <view class="title">大赚知行币</view>
+          <view class="zxb">有什么用？怎么赚呢?</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="footer">
+    <view class="footer_list">
+      <view class="list color">
+        <text>在学</text>
+        <view>16</view>
+        <image lazy-load='true' src="/pages/img/tiao.png"></image>
+      </view>
+      <view class="list">
+        <text>学果</text>
+        <view>1</view>
+        <image lazy-load='true' src="/pages/img/tiao.png"></image>
+      </view>
+      <view class="list">
+        <text>学记</text>
+        <view>2</view>
+        <image lazy-load='true' src="/pages/img/tiao.png"></image>
+      </view>
+      <view class="list">
+        <text>攻略</text>
+        <view>3</view>
+        <image lazy-load='true' src="/pages/img/tiao.png"></image>
+      </view>
+      <view class="list">
+        <text>案说</text>
+        <view>4</view>
+        <image lazy-load='true' src="/pages/img/tiao.png"></image>
+      </view>
+      <view class="list">
+        <text>情报</text>
+        <view>5</view>
+        <image lazy-load='true' src="/pages/img/tiao.png"></image>
+      </view>
+    </view>
+    <view class="Album">
+      <view class="Album_item1">
+        <view class="Album_item1_img">
+          <image lazy-load='true' src="/pages/img/Album.png"></image>
+        </view>
+        <view class="Album_item1_footer">
+          <text class="Album_item1_text">为什么人类想不出四维空间</text>
+          <view class="footer_box">
+            <view class="footer_left">
+              <image lazy-load='true' src="/pages/img/tx21.png"></image>
+              <text>小浣熊</text>
+            </view>
+            <view class="footer_right">
+              <image lazy-load='true' src="/pages/img/love.png"></image>
+              <text>0</text>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="Album_item1">
+        <view class="Album_item1_img">
+          <image lazy-load='true' src="/pages/img/Album.png"></image>
+        </view>
+        <view class="Album_item1_footer">
+          <text class="Album_item1_text">为什么人类想不出四维空间</text>
+          <view class="footer_box">
+            <view class="footer_left">
+              <image lazy-load='true' src="/pages/img/tx21.png"></image>
+              <text>小浣熊</text>
+            </view>
+            <view class="footer_right">
+              <image lazy-load='true' src="/pages/img/love.png"></image>
+              <text>0</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

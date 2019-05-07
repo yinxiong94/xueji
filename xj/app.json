@@ -1,14 +1,13 @@
 {
   "pages": [
+    "pages/edit/edit",
+    "pages/personal/personal",
+    
     "pages/index2/index2",
     "pages/index1/index1",
     "pages/index/index",
-    "pages/Personal/Personal",
-    "pages/details/details",
-    "pages/edit/edit",
-    "pages/index2/index2",
-    "pages/logs/logs",
-    "pages/personal/personal"  
+    "pages/logs/logs"
+     
   ],
   "window": {
     "enablePullDownRefresh": true,

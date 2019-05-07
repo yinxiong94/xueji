@@ -1,3 +1,4 @@
+<nav-title paramAtoB='编辑资料'>
 <view class="db">
   <view class="header">
     完善个人资料，可让学友更好的认识你
@@ -105,3 +106,4 @@
     </view>
   </view>
 </view>
+</nav-title>

@@ -1,0 +1,45 @@
+<nav-title paramAtoB='学记'> 
+  <view class='header'>
+      <view class="{{index==0?'org':''}}">找好课</view>
+      <view class="{{index==1?'org':''}}">好课情报站</view>
+      <view class="{{index==2?'org':''}}">学习攻略</view>
+  </view>
+
+  <view class='header1'>
+    <view class='xhx1' style="margin-left:{{ppp}}rpx"></view>
+  </view>
+
+  <view wx:if="{{isshow}}">
+    <image src="/pages/img/tj.png" class='vvv'></image>
+  </view>
+  
+
+  <!-- <view class='zxc'>
+      <image src="/pages/img/fanhui.png" class='fh'></image>
+      <image src="/pages/img/sx1.png" class='sx'></image>
+      <image src="/pages/img/home.png" class='home'></image>
+  </view> -->
+
+<view class='all' >
+  <view class='all1' bindtap = "handletap" bindtouchstart = "handletouchtart" bindtouchmove="handletouchmove" bindtouchend="handletouchend" style="margin-left: {{hh}}rpx">
+    <view class='rrrr'>
+      <index></index>
+    </view>
+    <view class='rrrr1'>
+      <index1></index1>
+    </view>
+    <view class='rrrr2'>
+      <index2></index2>
+    </view>
+  </view>
+</view>
+<view class='ggg' wx:if="{{index==0}}">
+    <image src="/pages/img/wxx.png"></image>
+  </view>
+  <view class='ppp12' wx:if="{{index==1}}">
+    <image src="/pages/img/qbfb.png"></image>
+  </view>
+  <view class='ppp' wx:if="{{index==2}}">
+    <image src="/pages/img/fb.png"></image>
+  </view>
+  </nav-title>

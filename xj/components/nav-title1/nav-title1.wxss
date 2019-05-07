@@ -28,7 +28,7 @@ view{box-sizing: border-box;}
   display: flex;
   justify-content: space-around;
   position: fixed;
-  top:50rpx;
+  top:80rpx;
   left: 14rpx;
   border-radius:32rpx;
   line-height: 63rpx 

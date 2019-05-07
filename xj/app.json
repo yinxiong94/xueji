@@ -1,13 +1,14 @@
 {
   "pages": [
+    "pages/signin/signin",    
+    "pages/index3/index3",
+    "pages/set/set",       
+    "pages/index/index",
+    "pages/index2/index2",
     "pages/edit/edit",
     "pages/personal/personal",
-    
-    "pages/index2/index2",
     "pages/index1/index1",
-    "pages/index/index",
     "pages/logs/logs"
-     
   ],
   "window": {
     "enablePullDownRefresh": true,
@@ -20,34 +21,34 @@
   "tabBar": {
     "list": [
       {
-        "pagePath": "pages/index1/index1",
+        "pagePath": "pages/index/index",
         "text": "学前",
         "iconPath": "pages/img/xq.png",
-        "selectedIconPath": "pages/img/xq1.png"
+        "selectedIconPath": "pages/img/xq.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "学后",
         "iconPath": "pages/img/xh.png",
-        "selectedIconPath": "pages/img/xh1.png"
+        "selectedIconPath": "pages/img/xh.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "学圈",
         "iconPath": "pages/img/pyq.png",
-        "selectedIconPath": "pages/img/pyq1.png"
+        "selectedIconPath": "pages/img/pyq.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "学友",
         "iconPath": "pages/img/hy.png",
-        "selectedIconPath": "pages/img/hy1.png"
+        "selectedIconPath": "pages/img/hy.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "我的",
         "iconPath": "pages/img/wd.png",
-        "selectedIconPath": "pages/img/wd1.png"
+        "selectedIconPath": "pages/img/wd.png"
       }
     ]
   }

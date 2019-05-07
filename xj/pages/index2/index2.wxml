@@ -1,4 +1,4 @@
-<nav-title paramAtoB='学记'> 
+<!-- <nav-title paramAtoB='学记'> 
   <view class='header'>
     <view>找好课</view>
     <view>好课情报站</view>
@@ -9,7 +9,7 @@
     <view class='xhx1'></view>
     <view class='xhx2'></view>
     <view class='xhx3'></view>
-  </view>
+  </view> -->
 
   <view class='slider'> 
     <swiper autoplay='4000' indicatorDots="true"> 
@@ -56,7 +56,9 @@
           <view class='zzz'>
             军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧我弄了红包拿回来呢都死啦白色了号登录喀纳斯            
           </view>  
-          <image></image> 
+          <view class='kkk'>
+          <image src="/pages/img/d3.png" style="height:320rpx"></image> 
+          </view>
        </view>
        <view class='bq'>
           <image src="/pages/img/dw.png" class='img3'></image>
@@ -67,4 +69,87 @@
   </view>
   <view class='hhh'></view>
 
-</nav-title>
+  <view class='deails1'>
+       <view class='xq'>
+          <view class='xq1'>
+            <image src="/pages/img/tx.png"></image>
+          </view>
+          <view class='xq2'>
+            <view class='a'>
+              <text>浣熊</text>
+              <image src="/pages/img/xz.png" class='img1' lazy-load='true'></image>    
+              <image src="/pages/img/xz1.png" class='img2' lazy-load='true'></image> 
+              <view class='d'>
+                <text class='d1'>学生</text>
+                <text class='d3'>说句话吧,让大家更加了解你s哈大声道啊</text>
+              </view> 
+            </view> 
+            <view class='zzz'>关注TA  </view>            
+          </view>          
+       </view>
+
+       <view class='clearfix'></view>
+
+       <view class='ddd'>
+          <view class='lll'>为什么阿里巴巴大部分商户几乎没有销量，像空城一样？</view>        
+          <view class='zzz'>
+            军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧我弄了红包拿回来呢都死啦白色了号登录喀纳斯            
+          </view> 
+          <view class='kkk'>
+            <image src="/pages/img/d1.png"></image> 
+            <image src="/pages/img/d2.png"></image>
+          </view> 
+       </view>
+       <view class='bq'>
+          <image src="/pages/img/dw.png" class='img3'></image>
+          <text>8.9km</text>
+          <text>169评论</text>
+          <text>300点赞</text>
+       </view>
+  </view>
+  <view class='hhh'></view>
+
+  <view class='deails1'>
+       <view class='xq'>
+          <view class='xq1'>
+            <image src="/pages/img/tx.png"></image>
+          </view>
+          <view class='xq2'>
+            <view class='a'>
+              <text>浣熊</text>
+              <image src="/pages/img/xz.png" class='img1' lazy-load='true'></image>    
+              <image src="/pages/img/xz1.png" class='img2' lazy-load='true'></image> 
+              <view class='d'>
+                <text class='d1'>学生</text>
+                <text class='d3'>说句话吧,让大家更加了解你s哈大声道啊</text>
+              </view> 
+            </view> 
+            <view class='zzz'>关注TA  </view>            
+          </view>          
+       </view>
+
+       <view class='clearfix'></view>
+
+       <view class='ddd'>
+          <view class='lll'>为什么阿里巴巴大部分商户几乎没有销量，像空城一样？</view>        
+          <view class='zzz'>
+            军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧我弄了红包拿回来呢都死啦白色了号登录喀纳斯            
+          </view> 
+          <view class='kkk'>
+            <image src="/pages/img/deal1.png"></image> 
+            <image src="/pages/img/deal2.png"></image>
+            <image src="/pages/img/deal.png"></image>
+          </view> 
+       </view>
+       <view class='bq'>
+          <image src="/pages/img/dw.png" class='img3'></image>
+          <text>8.9km</text>
+          <text>169评论</text>
+          <text>300点赞</text>
+       </view>
+  </view>
+  <view class='hhh'></view>
+
+  
+
+<!-- </nav-title> -->

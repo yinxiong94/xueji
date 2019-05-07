@@ -1,4 +1,4 @@
-<nav-title paramAtoB='学记'> 
+<!-- <nav-title paramAtoB='学记'> 
   <view class='header'>
     <view>找好课</view>
     <view class='org'>好课情报站</view>
@@ -9,7 +9,7 @@
     <view class='xhx1'></view>
     <view class='xhx2'></view>
     <view class='xhx3'></view>
-  </view>
+  </view> -->
 
   <view class='slider'> 
     <swiper autoplay='4000' indicatorDots="true"> 
@@ -37,35 +37,88 @@
     <image src="/pages/img/by.png"></image>
   </view>
 
-  <view class='deails1'>
-      <view class='xq'>
-          <view class='xq1'>
+  <view class='deails112'>
+      <view class='xq12'>
+          <view class='xq112'>
             <image src="/pages/img/tx.png"></image>
           </view>
-          <view class='xq2'>
-            <view class='a'>
+          <view class='xq212'>
+            <view class='a12'>
               <text>浣熊</text>
-              <image src="/pages/img/xz.png" class='img1' lazy-load='true'></image>    
-              <image src="/pages/img/xz1.png" class='img2' lazy-load='true'></image> 
-              <view class='d'>
-                <text class='d1'>学生</text>
+              <image src="/pages/img/xz.png" class='img112' lazy-load='true'></image>    
+              <image src="/pages/img/xz1.png" class='img212' lazy-load='true'></image> 
+              <view class='d12'>
+                <text class='d112'>学生</text>
               </view> 
             </view>         
           </view>                   
       </view>
       <view class='clearfix'></view>
-      <view class='ggg'>
+      <view class='ggg12'>
         <view>
-          <view class='left'>
+          <view class='left12'>
             <image src="/pages/img/f2.png"></image>
           </view> 
-          <view class='right'>
+          <view class='right12'>
               <view>为什么人类想不出四维空间?</view> 
-              <view class='mm'>老师名称</view>
-              <image src="/pages/img/xs.png" class='img9'></image>
-              <view class='bbb'>
-                  <view class='hhh'>￥588.00</view>
-                  <view class='iii'>靠谱86%</view>
+              <view class='mm12'>老师名称</view>
+              <image src="/pages/img/xs.png" class='img912'></image>
+              <view class='bbb12'>
+                  <view class='hhh12'>￥588.00</view>
+                  <view class='iii12'>靠谱86%</view>
+                  <view>1999人想学</view>
+              </view>
+          </view>
+           <view class='clearfix'></view>
+        </view>     
+      </view>
+      <view class="clearfix"></view>
+
+      <view class='field12'>
+          <view class='e12'>领域标签</view>
+          <view>领域标签</view>
+          <view>领域标签</view>
+          <view>领域标签</view>
+      </view>
+      
+       <view class='bq12'>
+          <text>2019.04.28</text>
+          <text>学习地点</text>
+          <text>学习机构</text>
+       </view>
+       
+  </view>
+  <view class='nnn12'></view>
+
+  <view class='deails112'>
+      <view class='xq12'>
+          <view class='xq112'>
+            <image src="/pages/img/tx.png"></image>
+          </view>
+          <view class='xq212'>
+            <view class='a12'>
+              <text>浣熊</text>
+              <image src="/pages/img/xz.png" class='img112' lazy-load='true'></image>    
+              <image src="/pages/img/xz1.png" class='img212' lazy-load='true'></image> 
+              <view class='d12'>
+                <text class='d112'>学生</text>
+              </view> 
+            </view>         
+          </view>                   
+      </view>
+      <view class='clearfix'></view>
+      <view class='ggg12'>
+        <view>
+          <view class='left12'>
+            <image src="/pages/img/f2.png"></image>
+          </view> 
+          <view class='right12'>
+              <view>为什么人类想不出四维空间?</view> 
+              <view class='mm12'>老师名称</view>
+              <image src="/pages/img/xx.png" class='img912'></image>
+              <view class='bbb12'>
+                  <view class='hhh12'>￥588.00</view>
+                  <view class='iii12'>靠谱86%</view>
                   <view>1999人想学</view>
               </view>
           </view>
@@ -73,76 +126,22 @@
       </view>
       <view class="clearfix"></view>
 
-      <view class='field'>
-          <view class='e'>领域标签</view>
+      <view class='field12'>
+          <view class='e12'>领域标签</view>
           <view>领域标签</view>
           <view>领域标签</view>
           <view>领域标签</view>
       </view>
       
-       <view class='bq'>
+       <view class='bq12'>
           <text>2019.04.28</text>
           <text>学习地点</text>
           <text>学习机构</text>
        </view>
        
   </view>
-  <view class='nnn'></view>
+  <view class='nnn12'></view>
 
-  <view class='deails1'>
-      <view class='xq'>
-          <view class='xq1'>
-            <image src="/pages/img/tx.png"></image>
-          </view>
-          <view class='xq2'>
-            <view class='a'>
-              <text>浣熊</text>
-              <image src="/pages/img/xz.png" class='img1' lazy-load='true'></image>    
-              <image src="/pages/img/xz1.png" class='img2' lazy-load='true'></image> 
-              <view class='d'>
-                <text class='d1'>学生</text>
-              </view> 
-            </view>         
-          </view>                   
-      </view>
-      <view class='clearfix'></view>
-      <view class='ggg'>
-        <view>
-          <view class='left'>
-            <image src="/pages/img/f2.png"></image>
-          </view> 
-          <view class='right'>
-              <view>为什么人类想不出四维空间?</view> 
-              <view class='mm'>老师名称</view>
-              <image src="/pages/img/xx.png" class='img9'></image>
-              <view class='bbb'>
-                  <view class='hhh'>￥588.00</view>
-                  <view class='iii'>靠谱86%</view>
-                  <view>1999人想学</view>
-              </view>
-          </view>
-        </view>     
-      </view>
-      <view class="clearfix"></view>
+  
 
-      <view class='field'>
-          <view class='e'>领域标签</view>
-          <view>领域标签</view>
-          <view>领域标签</view>
-          <view>领域标签</view>
-      </view>
-      
-       <view class='bq'>
-          <text>2019.04.28</text>
-          <text>学习地点</text>
-          <text>学习机构</text>
-       </view>
-       
-  </view>
-  <view class='nnn'></view>
-
-  <view class='ppp'>
-    <image src="/pages/img/qbfb.png"></image>
-  </view>
-
-</nav-title>
+<!-- </nav-title> -->

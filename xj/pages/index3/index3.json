@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nav-title": "../../components/nav-title/nav-title",
+    "refurbish-load": "../../components/refurbish-load/refurbish-load",
+    "index":"/pages/index/index",
+    "index1": "/pages/index1/index1",
+    "index2": "/pages/index2/index2"
+  }
+}

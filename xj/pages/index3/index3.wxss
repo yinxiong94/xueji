@@ -1,0 +1,115 @@
+.header{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  font-size: 34rpx;
+  color:rgba(63,69,75,1);
+  line-height: 42rpx;
+  padding-top: 20rpx;
+  position: fixed;
+  top:0;
+  z-index: 10;
+  background: #fff
+}
+.header1{
+  width: 100%;
+  font-size: 34rpx;
+  color:rgba(63,69,75,1);
+  line-height: 42rpx;
+  padding-top: 20rpx;
+  position: fixed;
+  top:60rpx;
+  z-index: 10;
+  background: #fff
+}
+.org{
+  color:rgba(255,152,0,1);
+  font-size: 42rpx
+}
+.xhx1{
+  width:30rpx;
+  height:6rpx;
+  background:rgba(255,152,0,1);
+  border-radius:3rpx; 
+  margin-bottom: 34rpx
+}
+.vvv{
+  position: fixed;
+  top:0;
+  width: 290rpx;
+  height: 95rpx;
+  z-index: 100;
+  right: 30rpx
+}
+.all{
+  width: 100%
+}
+.all1{
+  width: 300%;
+  display: flex;
+  
+}
+.zxc{
+  width:174rpx;
+  height: 63rpx;
+  border:2rpx solid #000;
+  z-index: 100;
+  display: flex;
+  justify-content: space-around;
+  position: fixed;
+  top:-8rpx;
+  left: 14rpx;
+  border-radius:32rpx;
+  line-height: 63rpx 
+}
+.fh{
+  width: 16rpx;
+  height: 28rpx;
+  margin: auto 0
+}
+.sx{
+  width: 1rpx;
+  height: 37rpx;
+  margin: auto 0
+}
+.home{
+  width: 28rpx;
+  height: 29rpx;
+  margin: auto 0
+}
+.ggg{
+  width:230rpx;
+height:90rpx;
+margin: auto;
+position: fixed;
+bottom:50rpx;
+left:260rpx
+}
+.ggg image{
+  width:100%;
+  height: 100%
+}
+.ppp12{
+  width:230rpx;
+height:90rpx;
+margin: auto;
+position: fixed;
+bottom:50rpx;
+left:260rpx
+}
+.ppp12 image{
+  width:100%;
+  height: 100%
+}
+.ppp{
+  width:100rpx;
+height:100rpx;
+margin: auto;
+position: fixed;
+bottom:50rpx;
+left:325rpx
+}
+.ppp image{
+  width:100%;
+  height: 100%
+}

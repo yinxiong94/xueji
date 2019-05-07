@@ -1,0 +1,92 @@
+@import "../icon/stylesheet.wxss";
+.db{
+  width: 100%;
+  box-sizing: border-box;
+}
+.db .header {
+  width: 100%;
+  height: 46rpx;
+  background-color: #ffefc6;
+  font-size: 23rpx;
+  line-height: 46rpx;
+  padding: 0 30rpx;
+  box-sizing: border-box;
+}
+.db .list_item{
+  width: 100%;
+  padding: 0 30rpx;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.list_item .item{
+  width: 100%;
+  padding: 30rpx 0;
+  border-bottom: 2rpx solid #ccc;
+  display: flex;
+} 
+.list_item .item .item_text{
+  color:#818181;
+  line-height: 116rpx;
+} 
+.list_item .item image{
+  width: 114rpx;
+  height: 116rpx;
+}
+.list_item .item .item_right{
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.list_item .item .item_right .item_right_text{
+  height: 116rpx;
+  margin-left: 30rpx;
+  line-height: 116rpx;
+  color:#C8C8C8;
+}
+.list_item .item .item_right .jiantou{
+  width: 100rpx;
+  height: 50rpx;
+  text-align: right;
+  line-height: 50rpx;
+  margin-top: 32rpx;
+}
+/* 板块2 */
+.db .list_item1{
+  width: 100%;
+  padding: 0 30rpx;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.list_item1 .item{
+  width: 100%;
+
+  border-bottom: 2rpx solid #ccc;
+  display: flex;
+} 
+.list_item1 .item .item_text{
+  color:#818181;
+  line-height: 116rpx;
+} 
+.list_item1 .item image{
+  width: 114rpx;
+  height: 116rpx;
+}
+.list_item1 .item .item_right{
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.list_item1 .item .item_right .item_right_text{
+  height: 116rpx;
+  margin-left: 30rpx;
+  line-height: 116rpx;
+  color:#C8C8C8;
+  font-size:28rpx;
+}
+.list_item1 .item .item_right .jiantou{
+  width: 100rpx;
+  height: 50rpx;
+  text-align: right;
+  line-height: 50rpx;
+  margin-top: 32rpx;
+}

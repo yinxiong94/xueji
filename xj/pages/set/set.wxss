@@ -1,0 +1,46 @@
+page{
+  background: #fff
+}
+.hhh{
+  width:750rpx;
+  height: 20rpx;
+  background: rgba(237,245,253,1);
+}
+.wx-switch-input::after{
+width: 40rpx !important;
+height: 43rpx !important;
+
+}
+.wx-switch-input{
+width:80rpx !important;
+height:45rpx !important;
+background: #ffb400  !important;
+border:#ffb400 !important;
+}
+.wx-switch-input::before{
+width:80rpx !important;
+height: 45rpx !important;
+border:4rpx solid rgb(215, 215, 215) !important;
+box-sizing: border-box
+}
+.hhh1{
+  width: 92%;
+  margin: auto;
+  padding: 20rpx 0rpx;
+  border-bottom: 2rpx solid #D7D7D7;
+  font-size:28rpx;
+  font-family:PingFang-SC-Medium;
+  font-weight:500;
+  color:rgba(0,0,0,1);
+}
+.hhh1 switch{
+  float: right
+}
+.hhh1 image{
+  width: 13rpx;
+  height: 24rpx;
+  display: inline-block;
+  float: right;
+  margin-right: 20rpx;
+  margin-top: 6rpx
+  }

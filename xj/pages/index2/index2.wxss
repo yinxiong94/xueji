@@ -265,7 +265,6 @@ left:260rpx
   display: -webkit-box;
 -webkit-box-orient: vertical;
 -webkit-line-clamp: 2;
-
 }
 .ddd .kkk {
   width: 100%;

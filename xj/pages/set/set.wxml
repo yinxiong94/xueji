@@ -1,0 +1,11 @@
+<nav-title1 paramAtoB='设置'>
+    <view class='hhh'></view>
+    <view class='hhh1'>
+        <text>允许非学友直接发私聊</text>
+        <switch></switch>
+    </view>
+    <view class='hhh1'>
+      <text>清除缓存</text>
+      <image src="/pages/img/fh1.png"></image>
+    </view>
+</nav-title1>

@@ -9,9 +9,8 @@
     "pages/Set/Set",
     "pages/edit/edit",
     "pages/signin/signin",     
-    "pages/set/set",       
     "pages/index/index",
-    "pages/index2/index2",
+    "pages/index2/index2", 
     "pages/logs/logs"
   ],
   "window": {

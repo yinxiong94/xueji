@@ -1,4 +1,5 @@
 @import "../icon/stylesheet.wxss";
+
 .db {
   width: 100%;
   background-color: #eee;
@@ -29,7 +30,7 @@
 
 .header .header_right .jiantou {
   line-height: 50rpx;
-  width:30rpx;
+  width: 30rpx;
   height: 30rpx;
 }
 
@@ -200,6 +201,7 @@
   font-size: 34rpx;
   border-right: 2rpx solid #ccc;
 }
+
 .data .data_footer .data_footer_list .data_footer_list_text1 {
   font-size: 34rpx;
 }
@@ -310,35 +312,42 @@
   font-size: 36rpx;
   line-height: 50rpx;
 }
+
 /* list */
-.list{
+
+.list {
   width: 96%;
   margin: 0 auto;
   margin-top: 20rpx;
   background-color: #fff;
   display: flex;
 }
-.list .list_item{
+
+.list .list_item {
   height: 100rpx;
   margin-top: 15rpx;
   display: flex;
   flex-direction: column;
   margin-bottom: 19rpx;
 }
-.list .item1{
+
+.list .item1 {
   flex: 1;
 }
-.list .list_item image{
+
+.list .list_item image {
   width: 40rpx;
   height: 36rpx;
   margin: 0 auto;
 }
-.list .list_item text{
+
+.list .list_item text {
   text-align: center;
   font-size: 22rpx;
-  color:rgba(0,0,0,1);
+  color: rgba(0, 0, 0, 1);
   margin-top: 17rpx;
 }
+
 /* Earn板块 */
 
 .Earn {
@@ -432,6 +441,59 @@
   margin-top: 12rpx;
 }
 
+/* ggg */
+
+.ggg {
+  width: 96%;
+  height: 120rpx;
+  margin: 0 auto;
+  margin-top: 20rpx;
+  border-radius: 6px;
+  background-color: #ffffff;
+  padding-top: 15rpx;
+  display: flex;
+}
+
+.ggg .ggg_list {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  width: 119rpx;
+  height: 68rpx;
+}
+
+.ggg .ggg_list text {
+  color: rgba(0, 0, 0, 1);
+  font-size: 22rpx;
+  font-weight: 500;
+  text-align: center;
+}
+
+.ggg .ggg_list image {
+  width: 40rpx;
+  height: 36rpx;
+  margin: 0 auto;
+}
+.ggg .ggg_list1 {
+  display: flex;
+  flex-direction: column;
+  width: 154rpx;
+  height: 68rpx;
+}
+
+.ggg .ggg_list1 text {
+  color: rgba(0, 0, 0, 1);
+  font-size: 22rpx;
+  font-weight: 500;
+  text-align: center;
+}
+
+.ggg .ggg_list1 image {
+  width: 58rpx;
+  height: 48rpx;
+  margin: 0 auto;
+}
+
 /* footer */
 
 .footer {
@@ -474,61 +536,73 @@
   bottom: -8rpx;
   left: 6%;
 }
-.footer .Album{
+
+.footer .Album {
   width: 100%;
   margin-top: 30rpx;
   display: flex;
   justify-content: space-between;
 }
-.footer .Album .Album_item1{
-  width:48%;
-  border-radius:12rpx;
+
+.footer .Album .Album_item1 {
+  width: 48%;
+  border-radius: 12rpx;
   overflow: hidden;
   box-shadow: 3px 2px 7px #a7a7a7;
 }
-.footer .Album .Album_item1 .Album_item1_img{
+
+.footer .Album .Album_item1 .Album_item1_img {
   width: 100%;
   height: 520rpx;
 }
-.footer .Album .Album_item1 .Album_item1_img image{
+
+.footer .Album .Album_item1 .Album_item1_img image {
   width: 100%;
   height: 520rpx;
 }
-.footer .Album .Album_item1 .Album_item1_footer{
+
+.footer .Album .Album_item1 .Album_item1_footer {
   width: 100%;
   padding-bottom: 12rpx;
 }
-.footer .Album .Album_item1 .Album_item1_footer .Album_item1_text{
-  font-size:26rpx;
+
+.footer .Album .Album_item1 .Album_item1_footer .Album_item1_text {
+  font-size: 26rpx;
   font-weight: bold;
   text-align: center;
 }
-.footer .Album .Album_item1 .Album_item1_footer .footer_box{
+
+.footer .Album .Album_item1 .Album_item1_footer .footer_box {
   width: 100%;
   display: flex;
   margin-top: 20rpx;
 }
-.footer .Album .Album_item1 .Album_item1_footer .footer_box .footer_left{
+
+.footer .Album .Album_item1 .Album_item1_footer .footer_box .footer_left {
   width: 65%;
   display: flex;
 }
-.footer .Album .Album_item1 .Album_item1_footer .footer_box .footer_left image{
+
+.footer .Album .Album_item1 .Album_item1_footer .footer_box .footer_left image {
   width: 50rpx;
   height: 50rpx;
 }
-.footer .Album .Album_item1 .Album_item1_footer .footer_box text{
+
+.footer .Album .Album_item1 .Album_item1_footer .footer_box text {
   font-size: 28rpx;
   font-weight: 400;
   margin-left: 20rpx;
   line-height: 50rpx;
 }
-.footer .Album .Album_item1 .Album_item1_footer .footer_box .footer_right{
-  flex:1;
+
+.footer .Album .Album_item1 .Album_item1_footer .footer_box .footer_right {
+  flex: 1;
   height: 50rpx;
   display: flex;
   justify-content: flex-end;
 }
-.footer .Album .Album_item1 .Album_item1_footer .footer_box .footer_right image{
+
+.footer .Album .Album_item1 .Album_item1_footer .footer_box .footer_right image {
   width: 42rpx;
   height: 42rpx;
   margin-top: 4rpx;

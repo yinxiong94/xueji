@@ -10,9 +10,109 @@
       <view class="item1_title">条件标签</view>
       <view class="list">
         <view class="list_li">
-        附近学
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
+        </view>
+        <view class="list_li">
+          附近学
         </view>
       </view>
+    </view>
+    <view class="item1">
+      <view class="item1_title">领域标签</view>
+      <view class="list">
+        <view class="list_li1">
+          附近学
+        </view>
+        <view class="list_li1">
+          附近学
+        </view>
+        <view class="list_li1">
+          附近学
+        </view>
+        <view class="list_li1">
+          附近学
+        </view>
+        <view class="list_li1">
+          附近学
+        </view>
+        <view class="list_li1">
+          附近学
+        </view>
+        <view class="list_li1">
+          附近学
+        </view>
+        <view class="list_li1">
+          附近学
+        </view>
+      </view>
+    </view>
+    <view class="footer">
+      <text class="footer_title">打赏</text>
+      <view class="footer_right">
+        <image lazy-load='true' src="/pages/img/zxb.png"></image>
+        <text>余额：1500 </text>
+      </view>
+    </view>
+    <view class="Reward">
+      <text>中选后打赏 XX 知行币</text>
+      <view class="Reward_li">
+        <view class="Reward_item">10</view>
+        <view class="Reward_item">20</view>
+        <view class="Reward_item">50</view>
+        <view class="Reward_item">100</view>
+        <view class="Reward_item">150</view>
+        <view class="Reward_item">200</view>
+      </view>
+    </view>
+    <view class="supplement">
+    <view>补充需求</view>
+    <textarea class="supplement_btn" placeholder='剩余200字'></textarea>
+    <view class="release">发布</view>
     </view>
   </view>
 </nav-title>

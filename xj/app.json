@@ -1,16 +1,15 @@
 {
   "pages": [
-    "pages/index3/index3",
+    "pages/personal/personal",
     "pages/want/want",
+    "pages/index3/index3",
     "pages/lesson/lesson",
     "pages/index1/index1",
-    "pages/personal/personal",
     "pages/detail/detail",
-    "pages/Set/Set",
     "pages/edit/edit",
-    "pages/signin/signin",     
+    "pages/signin/signin",
     "pages/index/index",
-    "pages/index2/index2", 
+    "pages/index2/index2",
     "pages/logs/logs"
   ],
   "window": {

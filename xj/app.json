@@ -11,7 +11,6 @@
     "pages/index/index",
     "pages/index2/index2",
     "pages/index1/index1", 
-    "pages/details/detais",  
     "pages/logs/logs"
   ],
   "window": {

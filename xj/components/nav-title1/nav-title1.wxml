@@ -13,11 +13,11 @@
     >
       <icon class='icon__back' />
     </view>
-    <view class='zxc'>
+    <!-- <view class='zxc'>
       <image src="/pages/img/fanhui.png" class='fh'></image>
       <image src="/pages/img/sx1.png" class='sx'></image>
       <image src="/pages/img/home.png" class='home'></image>
-    </view>
+    </view> -->
     <view class='col ellipsis-1' style='padding-right: {{screenInfo.statusBackShow ? "42px" : "0"}};'>
       {{paramAtoB}}
     </view>

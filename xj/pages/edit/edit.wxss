@@ -2,6 +2,7 @@
 .db{
   width: 100%;
   box-sizing: border-box;
+  padding-bottom: 20rpx;
 }
 .db .header {
   width: 100%;
@@ -27,6 +28,8 @@
 .list_item .item .item_text{
   color:#818181;
   line-height: 116rpx;
+  font-size: 28rpx;
+  width: 150rpx;
 } 
 .list_item .item image{
   width: 114rpx;
@@ -36,19 +39,20 @@
   flex: 1;
   display: flex;
   justify-content: space-between;
+  box-sizing: border-box;
 }
 .list_item .item .item_right .item_right_text{
   height: 116rpx;
   margin-left: 30rpx;
   line-height: 116rpx;
   color:#C8C8C8;
+  font-size: 28rpx;
 }
 .list_item .item .item_right .jiantou{
-  width: 100rpx;
+  width: 50rpx;
   height: 50rpx;
-  text-align: right;
+  text-align: center;
   line-height: 50rpx;
-  margin-top: 32rpx;
 }
 /* 板块2 */
 .db .list_item1{
@@ -66,6 +70,8 @@
 .list_item1 .item .item_text{
   color:#818181;
   line-height: 116rpx;
+  width: 150rpx;
+  font-size: 28rpx;
 } 
 .list_item1 .item image{
   width: 114rpx;
@@ -84,9 +90,9 @@
   font-size:28rpx;
 }
 .list_item1 .item .item_right .jiantou{
-  width: 100rpx;
+  width: 50rpx;
   height: 50rpx;
-  text-align: right;
+  text-align: center;
   line-height: 50rpx;
   margin-top: 32rpx;
 }

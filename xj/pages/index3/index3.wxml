@@ -33,7 +33,7 @@
     </view>
   </view>
 </view>
-<view class='ggg' wx:if="{{index==0}}">
+  <view class='ggg' wx:if="{{index==0}}" bindtap='wxx'>
     <image src="/pages/img/wxx.png"></image>
   </view>
   <view class='ppp12' wx:if="{{index==1}}">

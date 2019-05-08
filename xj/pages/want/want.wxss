@@ -1,0 +1,182 @@
+.db {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.db .header {
+  height: 200rpx;
+  width: 92%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.db .header .header_left {
+  flex: 1;
+  height: 200rpx;
+  text-align: center;
+  padding-top: 30rpx;
+}
+
+.db .header .header_left text {
+  font-size: 32rpx;
+  color: rgba(63, 69, 75, 1);
+}
+
+.db .header textarea {
+  padding: 30rpx 0 0 30rpx;
+  width: 555rpx;
+  height: 200rpx;
+  background: rgba(243, 243, 243, 1);
+  font-size: 28rpx;
+  font-weight: 400;
+  font-family: PingFangSC;
+}
+
+/* 板块1 */
+
+.db .item1 {
+  width: 92%;
+  margin: 0 auto;
+  margin-top: 70rpx;
+}
+
+.db .item1 .item1_title {
+  font-size: 32rpx;
+  font-weight: 400;
+  color: rgba(29, 32, 35, 1);
+}
+
+.db .item1 .list {
+  margin-top: 30rpx;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.db .item1 .list .list_li {
+  width: 160rpx;
+  height: 50rpx;
+  border-radius: 10rpx;
+  border: 1rpx solid rgba(255, 152, 0, 1);
+  text-align: center;
+  line-height: 50rpx;
+  font-size: 26rpx;
+  color: rgba(255, 152, 0, 1);
+  margin-bottom: 20rpx;
+  margin-right: 16rpx;
+}
+.db .item1 .list .list_li:nth-child(4n){
+  margin-right: 0;
+}
+.db .item1 .list .list_li1 {
+  width: 160rpx;
+  height: 50rpx;
+  border-radius: 25px;
+  border: 1rpx solid rgba(255, 152, 0, 1);
+  text-align: center;
+  line-height: 50rpx;
+  font-size: 26rpx;
+  color: rgba(255, 152, 0, 1);
+  margin-bottom: 20rpx;
+  margin-right: 16rpx;
+}
+.db .item1 .list .list_li1:nth-child(4n){
+  margin-right: 0;
+}
+/* 板块4 */
+
+.footer {
+  width: 92%;
+  margin: 0 auto;
+  margin-top: 30rpx;
+  display: flex;
+  justify-content: space-between;
+  height: 40rpx;
+}
+
+.footer .footer_title {
+  height: 31rpx;
+  font-size: 32rpx;
+  flex: 1;
+}
+
+.footer .footer_right {
+  width: 180rpx;
+  height: 20rpx;
+  display: flex;
+}
+
+.footer .footer_right image {
+  width: 31rpx;
+  height: 31rpx;
+}
+
+.footer .footer_right text {
+  font-size: 26rpx;
+  color: rgba(63, 69, 75, 1);
+  margin-left: 10rpx;
+}
+
+.Reward {
+  margin: 0 auto;
+  margin-top: 30rpx;
+  width: 92%;
+  font-size: 30rpx;
+  color: rgba(63, 69, 75, 1);
+}
+
+.Reward .Reward_li {
+  margin-top: 30rpx;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Reward .Reward_li .Reward_item {
+  width: 155rpx;
+  height: 70rpx;
+  border: 1px solid rgba(255, 152, 0, 1);
+  border-radius: 10px;
+  text-align: center;
+  line-height: 70rpx;
+  color: rgba(255, 152, 0, 1);
+  margin-right: 20rpx;
+  margin-bottom: 20rpx;
+}
+.Reward .Reward_li .Reward_item:nth-child(4n){
+  margin-right: 0;
+}
+/* 底部补充板块 */
+
+.db .supplement {
+  margin: 0 auto;
+  margin-top: 30rpx;
+  width: 92%;
+  font-size: 32rpx;
+  padding-bottom: 30rpx;
+}
+
+.db .supplement .supplement_btn {
+  margin-top: 30rpx;
+  width: 690rpx;
+  height: 200rpx;
+  background: rgba(243, 243, 243, 1);
+  border-radius: 10px;
+  padding: 30rpx 0 0 30rpx;
+}
+
+.db .supplement .release {
+  margin: 0 auto;
+  margin-top: 70rpx;
+  width: 230rpx;
+  height: 90rpx;
+  text-align: center;
+  line-height: 90rpx;
+  font-size: 38rpx;
+  font-family: PingFangSC;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  background: linear-gradient(127deg, rgba(255, 194, 0, 1) 0%, rgba(255, 152, 0, 1) 100%);
+  box-shadow: 0px 3px 8px 0px rgba(255, 165, 0, 0.5);
+  border-radius: 45px;
+}

@@ -54,7 +54,7 @@
           </view>                   
       </view>
       <view class='clearfix'></view>
-      <view class='ggg12'>
+      <view class='ggg12' bindtap='haoke'>
         <view>
           <view class='left12'>
             <image src="/pages/img/f2.png"></image>

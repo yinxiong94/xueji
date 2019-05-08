@@ -14,6 +14,11 @@ Page({
     ppp:120,
     index:0
   },
+  wxx:function(){
+    wx.navigateTo({
+      url: '/pages/want/want',
+    })
+  },
   handletouchmove: function (event) {
     var currentX = event.touches[0].pageX
     var currentY = event.touches[0].pageY

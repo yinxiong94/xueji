@@ -1,0 +1,159 @@
+<nav-title paramAtoB='好课推荐详情'>
+  <view class="db">
+    <view class="header">
+      <view class='deails1'>
+        <view class='xq'>
+          <view class='xq1'>
+            <image src="/pages/img/tx.png"></image>
+          </view>
+          <view class='xq2'>
+            <view class='a'>
+              <text>浣熊</text>
+              <image src="/pages/img/xz.png" class='img1' lazy-load='true'></image>
+              <image src="/pages/img/xz1.png" class='img2' lazy-load='true'></image>
+              <view class='d'>
+                <text class='d1'>学生</text>
+              </view>
+            </view>
+          </view>
+          <view class="xq3">
+            <view class="xq3_text">
+              私信TA
+            </view>
+            <view class="xq3_text1">
+              关注TA
+            </view>
+          </view>
+        </view>
+        <view class='clearfix'></view>
+        <view class='ggg'>
+          <view class='left'>
+            <image src="/pages/img/f2.png"></image>
+          </view>
+          <view class='right'>
+            <view>为什么人类想不出四维空间?</view>
+            <view class='mm'>老师名称</view>
+            <view class='bbb'>
+              <view class='hhh1'>￥588.00</view>
+            </view>
+          </view>
+
+        </view>
+        <view class="clearfix"></view>
+      </view>
+      <view class="content">
+        <text class="content_text">站酷网的主页站酷网聚集了中国部分设计师、艺术院校师生、潮流艺术家等年轻创意设计人群现有注册设计师/艺术家200万，日上传原创作</text>
+        <view class="content_text1">站酷网的主页站酷网聚集了中国部分设计师、艺术院校师生、潮流艺术家等年轻创意设计人群现有注册设计师/艺术家200万，日上传原创作</view>
+        <view class="content_text1">站酷网的主页站酷网聚集了中国部分设计师、艺术院校师生、潮流艺术家等年轻创意设计人群现有注册设计师/艺术家200万，日上传原创作</view>
+      </view>
+      <view class="album">
+        <image lazy-load='true' src="/pages/img/deal.png"></image>
+        <image lazy-load='true' src="/pages/img/deal1.png"></image>
+        <image lazy-load='true' src="/pages/img/deal2.png"></image>
+      </view>
+      <view class="btn">
+        <view class="btn_a">复制链接</view>
+        <view class="btn_b">采纳</view>
+      </view>
+      <view class="footer">
+        <view class="footer_title">
+          评论
+        </view>
+        <view class="footer_list">
+          <view class="list_item">
+            <view class="footer_item">
+              <image lazy-load='true' src="/pages/img/nvtx.png"></image>
+              <view class="footer_item_right">
+                <text class="footer_item_right_text">浣熊</text>
+                <view class="right">
+                  <view class="right_item1">
+                    <image lazy-load='true' src="/pages/img/pl28.png"></image>
+                    <text>20</text>
+                  </view>
+                  <view class="right_item1">
+                    <image lazy-load='true' src="/pages/img/item9.png"></image>
+                    <text>20</text>
+                  </view>
+                </view>
+              </view>
+            </view>
+            <view class="footer_hsk">
+              <text class="footer_hsk_pl">啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈。</text>
+            </view>
+          </view>
+          <view class="list_item">
+            <view class="footer_item">
+              <image lazy-load='true' src="/pages/img/nvtx.png"></image>
+              <view class="footer_item_right">
+                <text class="footer_item_right_text">浣熊</text>
+                <view class="right">
+                  <view class="right_item1">
+                    <image lazy-load='true' src="/pages/img/pl28.png"></image>
+                    <text>20</text>
+                  </view>
+                  <view class="right_item1">
+                    <image lazy-load='true' src="/pages/img/item9.png"></image>
+                    <text>20</text>
+                  </view>
+                </view>
+              </view>
+            </view>
+            <view class="footer_hsk">
+              <text class="footer_hsk_pl">啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈。</text>
+              <view class="footer_hsk_hf">
+                <image lazy-load='true' src="/pages/img/3jiao.png"></image>
+                <view class="hf">
+                  <text class="hf_blue">张张:</text>
+                  <view class="hf_text">啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</view>
+                </view>
+                <view class="hf_blue1">
+                  展开3条回复
+                </view>
+              </view>
+              <view class="footer_hsk_gd">
+              查看全部126条评论
+              </view>
+            </view>
+          </view>
+          <view class="list_item">
+            <view class="footer_item">
+              <image lazy-load='true' src="/pages/img/nvtx.png"></image>
+              <view class="footer_item_right">
+                <input class="ccc" type='text' placeholder='说点什么吧……'></input>
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="tcpp">
+    <view class="opp">
+      <view class="tcpp_left">
+        <view class="tcpp_left_list">
+          <image lazy-load='true' src="/pages/img/love38.png"></image>
+          <text>收藏 2k</text>
+        </view>
+        <view class="tcpp_left_list">
+          <image lazy-load='true' src="/pages/img/zan.png"></image>
+          <text>点赞 2k</text>
+        </view>
+        <view class="tcpp_left_list">
+          <image lazy-load='true' src="/pages/img/pinglun.png"></image>
+          <text>评论 2k</text>
+        </view>
+        <view class="tcpp_left_list">
+          <image lazy-load='true' src="/pages/img/dashang.png"></image>
+          <text>打赏</text>
+        </view>
+        <view class="tcpp_left_list">
+          <image lazy-load='true' src="/pages/img/jubao.png"></image>
+          <text>举报</text>
+        </view>
+      </view>
+      <view class="tcpp_right">
+        <image lazy-load='true' src="/pages/img/vxfx.png"></image>
+      </view>
+    </view>
+  </view>
+</nav-title>

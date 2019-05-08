@@ -26,6 +26,11 @@
         <text>知行币566</text>
       </view>
       <view class="perfect" bindtap='bjzl'>
+      <view class="data_zxb">
+        <image lazy-load='true' src="/pages/img/zxb.png"></image>
+        <text>知行币566</text>
+      </view>
+      <view class="perfect">
         <view class="perfect_data">编辑个人资料</view>
         <view class="perfect_Percentage">已完善60%</view>
       </view>

@@ -1,12 +1,12 @@
 {
   "pages": [
-    "pages/personal/personal",
     "pages/want/want",
-    "pages/index3/index3",
     "pages/lesson/lesson",
+    "pages/edit/edit",
+    "pages/personal/personal",
+    "pages/index3/index3",
     "pages/index1/index1",
     "pages/detail/detail",
-    "pages/edit/edit",
     "pages/signin/signin",
     "pages/index/index",
     "pages/index2/index2",

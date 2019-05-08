@@ -5,7 +5,7 @@
 
 .db .header {
   height: 200rpx;
-  width: 96%;
+  width: 92%;
   margin: 0 auto;
   display: flex;
 }
@@ -35,7 +35,7 @@
 /* 板块1 */
 
 .db .item1 {
-  width: 96%;
+  width: 92%;
   margin: 0 auto;
   margin-top: 70rpx;
 }
@@ -65,7 +65,9 @@
   margin-bottom: 20rpx;
   margin-right: 16rpx;
 }
-
+.db .item1 .list .list_li:nth-child(4n){
+  margin-right: 0;
+}
 .db .item1 .list .list_li1 {
   width: 160rpx;
   height: 50rpx;
@@ -78,11 +80,13 @@
   margin-bottom: 20rpx;
   margin-right: 16rpx;
 }
-
+.db .item1 .list .list_li1:nth-child(4n){
+  margin-right: 0;
+}
 /* 板块4 */
 
 .footer {
-  width: 96%;
+  width: 92%;
   margin: 0 auto;
   margin-top: 30rpx;
   display: flex;
@@ -116,7 +120,7 @@
 .Reward {
   margin: 0 auto;
   margin-top: 30rpx;
-  width: 96%;
+  width: 92%;
   font-size: 30rpx;
   color: rgba(63, 69, 75, 1);
 }
@@ -139,13 +143,15 @@
   margin-right: 20rpx;
   margin-bottom: 20rpx;
 }
-
+.Reward .Reward_li .Reward_item:nth-child(4n){
+  margin-right: 0;
+}
 /* 底部补充板块 */
 
 .db .supplement {
   margin: 0 auto;
   margin-top: 30rpx;
-  width: 96%;
+  width: 92%;
   font-size: 32rpx;
   padding-bottom: 30rpx;
 }

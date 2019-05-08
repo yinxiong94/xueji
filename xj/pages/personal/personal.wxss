@@ -38,7 +38,7 @@
 
 .data {
   height: 452rpx;
-  width: 96%;
+  width: 92%;
   margin: 0 auto;
   background-color: #fff;
   margin-top: -146rpx;
@@ -84,7 +84,7 @@
 }
 
 .data .data_name .name {
-  font-size: 38rpx;
+  font-size: 36rpx;
   font-weight: bold;
   display: flex;
   justify-content: center;
@@ -96,6 +96,7 @@
   background: linear-gradient(127deg, #3ba1d9 0%, #1864c9 100%);
   font-size: 20rpx;
   color: #fff;
+  margin-top: 8rpx;
 }
 
 .data .data_name .id {
@@ -105,17 +106,17 @@
 .data .data_zxb {
   display: flex;
   flex-direction: column;
-  width: 240rpx;
-  font-size: 32rpx;
+  width: 200rpx;
+  font-size: 26rpx;
   font-weight: bold;
   position: absolute;
-  top: 44rpx;
-  left: 36rpx;
+  top: 76rpx;
+  left: 64rpx;
 }
 
 .data .data_zxb image {
-  width: 110rpx;
-  height: 110rpx;
+  width: 66rpx;
+  height: 64rpx;
 }
 
 .data .perfect {
@@ -194,22 +195,22 @@
 }
 
 .data .data_footer .data_footer_list text {
-  font-size: 40rpx;
+  font-size:32rpx;
 }
 
 .data .data_footer .data_footer_list .data_footer_list_text {
-  font-size: 34rpx;
+  font-size: 24rpx;
   border-right: 2rpx solid #ccc;
 }
 
 .data .data_footer .data_footer_list .data_footer_list_text1 {
-  font-size: 34rpx;
+  font-size: 24rpx;
 }
 
 /* 111 */
 
 .Skill {
-  width: 96%;
+  width: 92%;
   height: 160rpx;
   margin: 0 auto;
   margin-top: 20rpx;
@@ -241,20 +242,21 @@
 }
 
 .Skill .Skill_op .Skill_op_top {
-  height: 60rpx;
-  line-height: 60rpx;
+  height: 56rpx;
+  line-height: 56rpx;
   display: flex;
+  padding-top: 6rpx;
 }
 
 .Skill .Skill_op .Skill_op_top .Skill_op_jn {
   width: 184rpx;
   height: 26rpx;
-  margin-top: 10rpx;
+  margin-top: 13rpx;
 }
 
 .Skill .Skill_op .Skill_op_top .Skill_op_call {
   width: 100%;
-  font-size: 36rpx;
+  font-size: 32rpx;
   font-weight: bold;
 }
 
@@ -274,7 +276,7 @@
 }
 
 .Skill .Skill_op .Skill_op_details {
-  font-size: 24rpx;
+  font-size: 20rpx;
 }
 
 .Skill .Skill_right {
@@ -316,7 +318,7 @@
 /* list */
 
 .list {
-  width: 96%;
+  width: 92%;
   margin: 0 auto;
   margin-top: 20rpx;
   background-color: #fff;
@@ -351,8 +353,8 @@
 /* Earn板块 */
 
 .Earn {
-  width: 96%;
-  height: 160rpx;
+  width: 92%;
+  height: 120rpx;
   margin: 0 auto;
   margin-top: 20rpx;
   box-sizing: border-box;
@@ -364,13 +366,13 @@
 
 .Earn .Earn_left {
   width: 50%;
-  height: 160rpx;
+  height: 120rpx;
   display: flex;
 }
 
 .Earn .Earn_left .Earn_left_img {
   width: 40rpx;
-  height: 160rpx;
+  height: 120rpx;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -386,17 +388,18 @@
 .Earn .Earn_left .Earn_left_title {
   flex: 1;
   border-right: 2px solid #eee;
-  height: 130rpx;
-  margin-top: 26rpx;
+  height: 100rpx;
+  margin-top: 10rpx;
+  padding-top: 14rpx;
 }
 
 .Earn .Earn_left .Earn_left_title .title {
-  font-size: 32rpx;
+  font-size: 24rpx;
   font-weight: bold;
 }
 
 .Earn .Earn_left .Earn_left_title .zxb {
-  font-size: 28rpx;
+  font-size: 20rpx;
   margin-top: 12rpx;
 }
 
@@ -404,7 +407,7 @@
 
 .Earn .Earn_right {
   width: 50%;
-  height: 160rpx;
+  height: 120rpx;
   display: flex;
   padding: 0 10rpx;
   box-sizing: border-box;
@@ -412,7 +415,7 @@
 
 .Earn .Earn_right .Earn_left_img {
   width: 40rpx;
-  height: 160rpx;
+  height: 120rpx;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -427,30 +430,30 @@
 
 .Earn .Earn_right .Earn_left_title {
   flex: 1;
-  height: 130rpx;
-  margin-top: 26rpx;
+  height: 120rpx;
+  margin-top: 24rpx;
 }
 
 .Earn .Earn_right .Earn_left_title .title {
-  font-size: 32rpx;
+  font-size: 24rpx;
   font-weight: bold;
 }
 
 .Earn .Earn_right .Earn_left_title .zxb {
-  font-size: 28rpx;
+  font-size: 20rpx;
   margin-top: 12rpx;
 }
 
 /* ggg */
 
 .ggg {
-  width: 96%;
+  width: 92%;
   height: 120rpx;
   margin: 0 auto;
   margin-top: 20rpx;
   border-radius: 6px;
-  background-color: #ffffff;
-  padding-top: 15rpx;
+  background-color: #fff;
+  padding-top: 26rpx;
   display: flex;
 }
 
@@ -474,6 +477,7 @@
   height: 36rpx;
   margin: 0 auto;
 }
+
 .ggg .ggg_list1 {
   display: flex;
   flex-direction: column;
@@ -497,7 +501,7 @@
 /* footer */
 
 .footer {
-  width: 96%;
+  width: 92%;
   margin: 0 auto;
   margin-top: 20rpx;
   box-sizing: border-box;
@@ -523,17 +527,19 @@
   display: flex;
   flex-direction: column;
   margin-bottom: 4rpx;
+  font-size: 24rpx;
 }
 
 .footer .footer_list .color {
   color: #ff9800;
+  font-size: 24rpx;
 }
 
 .footer .footer_list .list image {
   position: absolute;
   width: 34rpx;
   height: 4rpx;
-  bottom: -8rpx;
+  bottom: 10rpx;
   left: 6%;
 }
 
@@ -553,12 +559,12 @@
 
 .footer .Album .Album_item1 .Album_item1_img {
   width: 100%;
-  height: 520rpx;
+  height: 319rpx;
 }
 
 .footer .Album .Album_item1 .Album_item1_img image {
   width: 100%;
-  height: 520rpx;
+  height: 319rpx;
 }
 
 .footer .Album .Album_item1 .Album_item1_footer {

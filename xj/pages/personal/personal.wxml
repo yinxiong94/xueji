@@ -30,14 +30,14 @@
         <view class="perfect_Percentage">已完善60%</view>
       </view>
       <view class="Grade">
-        <image lazy-load='true' src='/pages/img/grade.png'></image>
+        <image lazy-load='true' src='/pages/img/xz.png'></image>
         <view class="Grade_text">
           <text>还差556知行币</text>
           <view class="Grade_color">
             <view class="color"></view>
           </view>
         </view>
-        <image lazy-load='true' src='/pages/img/grade.png'></image>
+        <image lazy-load='true' src='/pages/img/xz.png'></image>
       </view>
       <view class="data_footer">
         <view class="data_footer_list">

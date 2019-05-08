@@ -66,9 +66,9 @@
       <view class="content_a">#链接链接链接</view>
     </view>
     <view class="album">
-      <image lazy-load='true' src="/pages/img/img.png"></image>
-      <image lazy-load='true' src="/pages/img/img1.png"></image>
-      <image lazy-load='true' src="/pages/img/img3.png"></image>
+      <image lazy-load='true' src="/pages/img/deal.png"></image>
+      <image lazy-load='true' src="/pages/img/deal1.png"></image>
+      <image lazy-load='true' src="/pages/img/deal2.png"></image>
     </view>
     <view class="btn">
       <view class="btn_a">复制链接</view>

@@ -265,7 +265,7 @@
 /* 板块3 */
 
 .db .header .btn {
-  width: 92%;
+  width: 100%;
   padding-bottom: 30rpx;
   margin: 0 auto;
   margin-top: 30rpx;
@@ -295,6 +295,7 @@
   background-color: #def;
   text-align: center;
   line-height: 70rpx;
+  border-radius: 10rpx
 }
 
 .db .header .btn .btn_c {

@@ -1,9 +1,10 @@
 {
   "pages": [
-   
-    "pages/index3/index3",
-    "pages/hktjxq/hktjxq",
     "pages/hkqbz/hkqbz",
+    "pages/hktjxq/hktjxq",
+    "pages/index3/index3",
+    
+   
     "pages/strategy/strategy",
     "pages/lesson/lesson",  
     "pages/fbqb/fbqb",   

@@ -504,6 +504,7 @@
   background-color: #def;
   text-align: center;
   line-height: 70rpx;
+  border-radius: 10rpx
 }
 
 .db .header .btn .btn_c {
@@ -516,6 +517,7 @@
   border:1px solid rgba(255,152,0,1);
   text-align: center;
   line-height: 70rpx;
+  border-radius: 10rpx
 }
 
 .tcpp {

@@ -1,4 +1,4 @@
-<nav-title paramAtoB='好课推荐详情'>
+<nav-title paramAtoB='推荐详情'>
   <view class="db">
     <view class="header">
       <view class='deails1'>

@@ -52,7 +52,7 @@
   </view>
   <view class='hhh'></view>
   <view class="db">
-    <view class="header">
+    <view class="header" bindtap='hkxq'>
       <view class='deails1'>
         <view class='xq'>
           <view class='xq1'>
@@ -93,12 +93,7 @@
         </view>
         <view class="clearfix"></view>
 
-        <view class='field'>
-          <view class='e'>领域标签</view>
-          <view>领域标签</view>
-          <view>领域标签</view>
-          <view>领域标签</view>
-        </view>
+        
       </view>
       <view class="content">
         <text class="content_text">站酷网的主页站酷网聚集了中国部分设计师、艺术院校师生、潮流艺术家等年轻创意设计人群现有注册设计师/艺术家200万，日上传原创作</text>
@@ -186,12 +181,6 @@
         </view>
         <view class="clearfix"></view>
 
-        <view class='field'>
-          <view class='e'>领域标签</view>
-          <view>领域标签</view>
-          <view>领域标签</view>
-          <view>领域标签</view>
-        </view>
       </view>
       <view class="content">
         <text class="content_text">站酷网的主页站酷网聚集了中国部分设计师、艺术院校师生、潮流艺术家等年轻创意设计人群现有注册设计师/艺术家200万，日上传原创作</text>
@@ -279,12 +268,6 @@
         </view>
         <view class="clearfix"></view>
 
-        <view class='field'>
-          <view class='e'>领域标签</view>
-          <view>领域标签</view>
-          <view>领域标签</view>
-          <view>领域标签</view>
-        </view>
       </view>
       <view class="content">
         <text class="content_text">站酷网的主页站酷网聚集了中国部分设计师、艺术院校师生、潮流艺术家等年轻创意设计人群现有注册设计师/艺术家200万，日上传原创作</text>

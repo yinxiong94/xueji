@@ -19,6 +19,11 @@ Page({
       url: '/pages/want/want',
     })
   },
+  qbfb:function(){
+    wx.navigateTo({
+      url: '/pages/fbqb/fbqb',
+    })
+  },
   handletouchmove: function (event) {
     var currentX = event.touches[0].pageX
     var currentY = event.touches[0].pageY

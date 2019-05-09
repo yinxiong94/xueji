@@ -1,15 +1,13 @@
-// pages/want/want.js
+// pages/fbqb/fbqb.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    isshow3:false
+
   },
-  show:function(){
-      this.setData({isshow3:true})
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

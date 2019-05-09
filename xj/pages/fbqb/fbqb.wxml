@@ -1,0 +1,70 @@
+<nav-title paramAtoB='发布情报'>
+    <view class='gdby'>
+      <image src="/pages/img/gdby.png"></image>
+    </view>
+    <view class='kctd'>课程特点(必项)</view>
+    <view class='kctd_item'>
+        <view class='xxzz'>趣味多</view>
+        <view>干货多</view>
+        <view>启发多</view>
+        <view>实用性强</view>
+        <view>实用性强</view>
+        <view>实用性强</view>
+        <view>干货多</view>
+        <view>干货多</view>
+        <view>启发多</view>
+        <view>实用性强</view>
+        <view>实用性强</view>
+        <view>实用性强</view>
+        <view>干货多</view>
+        <view>干货多</view>
+    </view>
+    <view class='jbxx'>课程基本信息(必项)</view>
+    <view class='kcbt'>课程标题</view>
+    <input placeholder='不超过30个字符'></input>
+    <view class='lybq'>相关平台/机构名称：</view>
+    <input placeholder='机构名称机构名称机构名称机构名称机构名称' class='jgmc'></input>
+    <view class='lybq'>老师名称：</view>
+    <view class='lsmm'>
+      <input value='老师名称' class='lsmc'></input>
+      <text>@</text> 
+    </view>
+    <view class='lybq'>课程照片：</view>
+    <view class='kczp'>
+        <image src="/pages/img/fb2.png"></image>
+    </view>
+    <view class='lybq'>站外链接地址：</view>
+    <input placeholder='file/b0babb30af819727592e83431b157548' class='jgmc'></input>
+    <view class='lybq'>课程价格 ：</view>
+    <input value="￥500.00" class='jgmc'></input>
+    <view class='lybq'>学习地址(线下)：</view>
+    <input value="长沙市·天心区广告创业园" class='jgmc'></input>
+    <view class='lybq'>情报内容/推荐语</view>
+    <textarea class='kczp' placeholder='内容不超过300字哦~'></textarea>
+    <view class='lybq'>领域标签</view>
+    <view class='kctd_item'>
+        <view class='xxzz'>趣味多</view>
+        <view>干货多</view>
+        <view>启发多</view>
+        <view>实用性强</view>
+        <view>实用性强</view>
+        <view>实用性强</view>
+        <view>干货多</view>
+        <view>干货多</view>
+    </view>
+    <view class='xxxs'>线下/线上</view>
+    <view class='kctd_item'>
+        <view class='xxzz'>线下学</view>
+        <view>线上学</view>
+    </view>
+    <view class='lybq'>关联自己作品</view>
+    <input placeholder='请输入已发布作品的关键词' class='jgmc'></input>
+    <view class='lybq'>上传已学截图</view>
+    <view class='sc'>上传</view>
+    <view class='sc1'>上传你的订单或其他证明已学的截图，可以让自己的推荐增强信任感，从而帮到更多人。</view>
+    <view class='fb1'>
+      <image src="/pages/img/fb1.png"></image>
+    </view>
+    <view class='wxts'>温馨提示：好课情报发布分为三大步骤:复制/粘贴链接、完善情报内容、等待平台审核。
+    我们只接受实名推荐，且真实有效的好课情报，0~1星学习达人每周限发三条，禁止发布未经验证过的课程广告（一经发现删除、警告、双倍扣除所得知行币，严重者封号处理。)</view>
+</nav-title>

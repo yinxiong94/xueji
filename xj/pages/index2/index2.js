@@ -7,7 +7,11 @@ Page({
   data: {
 
   },
-
+xxxq:function(){
+  wx.navigateTo({
+    url: '/pages/strategy/strategy',
+  })
+},
   /**
    * 生命周期函数--监听页面加载
    */

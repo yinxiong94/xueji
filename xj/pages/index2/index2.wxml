@@ -51,7 +51,7 @@
 
        <view class='clearfix'></view>
 
-       <view class='ddd'>
+       <view class='ddd' bindtap='xxxq'>
           <view class='lll'>为什么阿里巴巴大部分商户几乎没有销量，像空城一样？</view>        
           <view class='zzz'>
             军队和咖啡狂奔是聚聚会不搞巨坑；看了河北科技管理不好看还好吧我弄了红包拿回来呢都死啦白色了号登录喀纳斯            

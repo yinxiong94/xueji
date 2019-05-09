@@ -5,12 +5,16 @@ Page({
    */
   data: {
     isshow:false,
-    isshow1:false
+    isshow1:false,
+    isshow2:false
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
+  pl:function(){
+    this.setData({isshow2:true})
+  },
   why:function(){
     this.setData({isshow:true})
   },
@@ -19,6 +23,11 @@ Page({
   },
   fxt:function(){
     this.setData({isshow1:true})
+  },
+  hkxq:function(){
+    wx.navigateTo({
+      url: '/pages/hkqbz/hkqbz',
+    })
   },
   onLoad: function (options) {
     // console.log(this.modal-d)

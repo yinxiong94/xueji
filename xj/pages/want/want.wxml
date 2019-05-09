@@ -4,7 +4,8 @@
       <view class="header_left">
         <text>我想学:</text>
       </view>
-      <textarea placeholder='担心自己找不到靠谱的课程和老师？在这里发布想学内容，由体验过的学友们提供真实推荐，让你减少选择焦虑。'></textarea>
+      <view class='viw'  bindtap='show'>担心自己找不到靠谱的课程和老师？在这里发布想学内容，由体验过的学友们提供真实推荐，让你减少选择焦虑。</view>
+      <textarea placeholder='担心自己找不到靠谱的课程和老师？在这里发布想学内容，由体验过的学友们提供真实推荐，让你减少选择焦虑。' wx:if="{{isshow3}}"></textarea>
     </view>
     <view class="item1">
       <view class="item1_title">条件标签</view>
@@ -115,4 +116,44 @@
     <view class="release">发布</view>
     </view>
   </view>
+
+  <view class='all_list'>
+      <view class='all_item'>
+        <image src="/pages/img/qx.png" class='qx'></image>
+        <view class='ye'>知行币余额 1500</view>
+        <view class='ds'>打赏</view>
+        <view class='zxb_1'>
+            <view class='zxb_2'>
+              <text class='zxb_3'>10</text>
+              <text class='zxb_4'>知行币</text>
+            </view>
+            <view class='zxb_2'>
+              <text class='zxb_3'>10</text>
+              <text class='zxb_4'>知行币</text>
+            </view>
+            <view class='zxb_2'>
+              <text class='zxb_3'>10</text>
+              <text class='zxb_4'>知行币</text>
+            </view>
+            <view class='zxb_2'>
+              <text class='zxb_3'>10</text>
+              <text class='zxb_4'>知行币</text>
+            </view>
+            <view class='zxb_2'>
+              <text class='zxb_3'>10</text>
+              <text class='zxb_4'>知行币</text>
+            </view>
+            <view class='zxb_2'>
+              <text class='zxb_3'>10</text>
+              <text class='zxb_4'>知行币</text>
+            </view>
+            <view class='zxb_2'>
+              <text class='zxb_3'>10</text>
+              <text class='zxb_4'>知行币</text>
+            </view>
+        </view>
+        <image src="/pages/img/ds.png" class='ds_img'></image>
+      </view>
+  </view>
+
 </nav-title>

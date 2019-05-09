@@ -33,7 +33,6 @@
     <view>附近</view>
     <view>打赏多</view>
   </view>
-
   <view class='deails1'>
        <text>为什么人类想不出四维空间</text>
        <view class='xq'>
@@ -224,6 +223,8 @@
   </view>
 </view>
 </view>
+
+  
   <!-- <image src="/pages/img/tj.png" class='vvv'></image> -->
 
 <!-- </nav-title> -->

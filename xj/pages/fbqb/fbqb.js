@@ -1,4 +1,4 @@
-// pages/details /details.js
+// pages/fbqb/fbqb.js
 Page({
 
   /**

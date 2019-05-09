@@ -1,17 +1,20 @@
 {
   "pages": [
+    "pages/hktjxq/hktjxq",
+    "pages/hkqbz/hkqbz",
+    "pages/strategy/strategy",
+    "pages/lesson/lesson",
     "pages/index3/index3",
     "pages/fbqb/fbqb",   
     "pages/want/want",
     "pages/personal/personal",
+    "pages/index1/index1",
+    "pages/index2/index2",
     "pages/edit/edit",
-    "pages/lesson/lesson",
     "pages/detail/detail",
     "pages/signin/signin",
     "pages/set/set",
     "pages/index/index",
-    "pages/index2/index2",
-    "pages/index1/index1",
     "pages/logs/logs"
   ],
   "window": {
@@ -55,5 +58,6 @@
         "selectedIconPath": "pages/img/wd.png"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
